@@ -72,17 +72,17 @@ print(df.head())
 | power.locker      | premium   | $1,300    | $58.50        | 98             | 62     | 5      | namecheap      |
 | nationwide.locker | available | $76.98    | —             | 76             | 66     | 10     | namecheap      |
 | quick.locker      | resell    | —         | —             | 72             | 42     | 5      | Nicnames, Inc. |
-| free.locker       | premium   | $1,300    | $58.50        | 88             | 59     | 4      | namecheap      |
-| seventeen.locker  | available | $76.98    | —             | 84             | 62     | 9      | namecheap      |
-| content.locker    | resell    | —         | —             | 138            | 40     | 7      | GoDaddy        |
 | cloud.locker      | premium   | $13,000   | $58.50        | 70             | 59     | 5      | namecheap      |
+| seventeen.locker  | available | $76.98    | —             | 84             | 62     | 9      | namecheap      |
+| content.locker    | resell    | —         | —             | 138            | 39     | 7      | GoDaddy        |
+| ace.locker        | premium   | $6,500    | $58.50        | 88             | 57     | 3      | namecheap      |
 | tesla.locker      | available | $56.98    | —             | 86             | 61     | 5      | namecheap      |
 | crystal.locker    | resell    | —         | —             | 70             | 36     | 7      | Dynadot, LLC   |
-| ace.locker        | premium   | $6,500    | $58.50        | 88             | 57     | 3      | namecheap      |
+| free.locker       | premium   | $1,300    | $58.50        | 88             | 57     | 4      | namecheap      |
 | echo.locker       | available | $56.98    | —             | 68             | 57     | 4      | namecheap      |
 | velocity.locker   | resell    | —         | —             | 70             | 35     | 8      | Dynadot, LLC   |
 | live.locker       | premium   | $6,500    | $58.50        | 108            | 56     | 4      | namecheap      |
-| simple.locker     | available | $76.98    | —             | 128            | 48     | 6      | namecheap      |
+| simple.locker     | available | $76.98    | —             | 128            | 49     | 6      | namecheap      |
 | unlimited.locker  | resell    | —         | —             | 76             | 34     | 9      | GoDaddy        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
