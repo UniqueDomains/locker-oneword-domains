@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .locker one-word domains from Uniq
 
 **Public extract:** 9,389 rows · **Live catalog:** 9,389 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/locker`  
 **Best for:** founders, investors, studios
 
@@ -68,7 +68,7 @@ print(df.head())
 | omega.locker      | resell    | —         | —             | 78             | 71     | 5      | GoDaddy        |
 | easy.locker       | premium   | $1,300    | $58.50        | 128            | 68     | 4      | namecheap      |
 | converse.locker   | available | $76.98    | —             | 64             | 73     | 8      | namecheap      |
-| limitless.locker  | resell    | —         | —             | 76             | 56     | 9      | GoDaddy        |
+| limitless.locker  | resell    | —         | —             | 76             | 55     | 9      | GoDaddy        |
 | power.locker      | premium   | $1,300    | $58.50        | 98             | 62     | 5      | namecheap      |
 | nationwide.locker | available | $76.98    | —             | 76             | 66     | 10     | namecheap      |
 | quick.locker      | resell    | —         | —             | 72             | 42     | 5      | Nicnames, Inc. |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LOCKER One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LOCKER One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
