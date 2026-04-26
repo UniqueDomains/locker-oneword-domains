@@ -1,22 +1,22 @@
-# Available .LOCKER One-Word Domains (9,389)
+# Available .LOCKER One-Word Domains (11,867)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C389%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C389%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C867%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .locker one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .locker one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,867 domains** on the canonical page below.
 
-**Public extract:** 9,389 rows · **Live catalog:** 9,389 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,867 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/locker`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .LOCKER one-word domai
 
 ### Files
 
-- `locker.csv` — public CSV extract (9,389 rows)
-- `locker.json` — public JSON extract (9,389 rows)
+- `locker.csv` — public CSV extract (1,000 rows)
+- `locker.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar      |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------- |
-| disney.locker     | available | $56.98    | —             | 82             | 76     | 6      | namecheap      |
-| omega.locker      | resell    | —         | —             | 78             | 71     | 5      | GoDaddy        |
-| easy.locker       | premium   | $1,300    | $58.50        | 128            | 68     | 4      | namecheap      |
-| converse.locker   | available | $76.98    | —             | 64             | 73     | 8      | namecheap      |
-| limitless.locker  | resell    | —         | —             | 76             | 55     | 9      | GoDaddy        |
-| power.locker      | premium   | $1,300    | $58.50        | 98             | 62     | 5      | namecheap      |
-| nationwide.locker | available | $76.98    | —             | 76             | 66     | 10     | namecheap      |
-| quick.locker      | resell    | —         | —             | 72             | 42     | 5      | Nicnames, Inc. |
-| cloud.locker      | premium   | $13,000   | $58.50        | 70             | 59     | 5      | namecheap      |
-| seventeen.locker  | available | $76.98    | —             | 84             | 62     | 9      | namecheap      |
-| content.locker    | resell    | —         | —             | 138            | 39     | 7      | GoDaddy        |
-| ace.locker        | premium   | $6,500    | $58.50        | 88             | 57     | 3      | namecheap      |
-| tesla.locker      | available | $56.98    | —             | 86             | 61     | 5      | namecheap      |
-| crystal.locker    | resell    | —         | —             | 70             | 36     | 7      | Dynadot, LLC   |
-| free.locker       | premium   | $1,300    | $58.50        | 88             | 57     | 4      | namecheap      |
-| echo.locker       | available | $56.98    | —             | 68             | 57     | 4      | namecheap      |
-| velocity.locker   | resell    | —         | —             | 70             | 35     | 8      | Dynadot, LLC   |
-| live.locker       | premium   | $6,500    | $58.50        | 108            | 56     | 4      | namecheap      |
-| simple.locker     | available | $76.98    | —             | 128            | 49     | 6      | namecheap      |
-| unlimited.locker  | resell    | —         | —             | 76             | 34     | 9      | GoDaddy        |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| Uber.locker      | available | $56.98    | —             | 88             | 82     | 4      | namecheap |
+| hotels.locker    | premium   | $290.91   | $8.05         | 64             | 82     | 6      | namesilo  |
+| Spotify.locker   | available | $56.98    | —             | 78             | 69     | 7      | namecheap |
+| winners.locker   | premium   | $290.91   | $8.05         | 60             | 81     | 7      | namesilo  |
+| RedSox.locker    | available | $56.98    | —             | 72             | 60     | 7      | namecheap |
+| online.locker    | premium   | $6,250    | —             | 70             | 62     | 7      | name.com  |
+| regions.locker   | available | $19.99    | —             | 64             | 59     | 7      | name.com  |
+| travelers.locker | premium   | $290.91   | $8.05         | 58             | 61     | 9      | namesilo  |
+| trends.locker    | available | $19.99    | —             | 60             | 32     | 6      | name.com  |
+| farmers.locker   | premium   | $250      | —             | 54             | 59     | 7      | name.com  |
+| forms.locker     | available | $19.99    | —             | 54             | 28     | 5      | name.com  |
+| robots.locker    | premium   | $1,511.35 | $8.05         | 62             | 47     | 6      | namesilo  |
+| pages.locker     | available | $19.99    | —             | 52             | 28     | 5      | name.com  |
+| coins.locker     | premium   | $12,500   | —             | 56             | 41     | 5      | name.com  |
+| Trex.locker      | available | $56.98    | —             | 80             | 24     | 5      | namecheap |
+| Tools.locker     | premium   | $7,000    | $42           | 56             | 40     | 5      | namecheap |
+| echoes.locker    | available | $13.25    | $37.99        | 56             | 24     | 6      | namesilo  |
+| lets.locker      | premium   | $625      | —             | 77             | 39     | 4      | name.com  |
+| Adidas.locker    | available | $56.98    | —             | 88             | 23     | 6      | namecheap |
+| events.locker    | premium   | $625      | —             | 68             | 37     | 6      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,389-row public sample | 9,389 live domains                               |
+| 1,000-row public sample | 11,867 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LOCKER One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LOCKER One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
