@@ -64,7 +64,7 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| Uber.locker      | available | $56.98    | —             | 88             | 82     | 4      | namecheap |
+| Uber.locker      | available | $56.98    | —             | 88             | 85     | 4      | namecheap |
 | Trex.locker      | available | $56.98    | —             | 80             | 24     | 5      | namecheap |
 | jewels.locker    | available | $19.99    | —             | 80             | 15     | 6      | name.com  |
 | geton.locker     | available | $19.99    | —             | 82             | 10     | 6      | name.com  |

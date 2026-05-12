@@ -655,7 +655,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 393163ab-8163-4bb1-a9ec-e7a8ec53a66e,Curves.locker,available,56.98,,51,11,6,namecheap,,
 3962488b-e91c-4108-8d47-2798e1b6b832,cupboards.locker,available,13.25,37.99,48,3,9,namesilo,,
 39690730-dacb-4299-bbb3-a68d6190de03,toboggans.locker,available,19.99,,59,1,9,name.com,,
-396fdb5e-b091-421a-8bfa-990a0a58d447,Uber.locker,available,56.98,,88,82,4,namecheap,,
+396fdb5e-b091-421a-8bfa-990a0a58d447,Uber.locker,available,56.98,,88,85,4,namecheap,,
 397b52d1-e467-49c1-94d5-799850fbc497,gomissing.locker,available,19.99,,70,1,10,name.com,,
 397fbad4-b4b2-44a6-9f71-f27ea4ab825a,insuchaway.locker,available,13.25,37.99,44,1,13,namesilo,,
 399ba725-5ed7-47d7-b605-49280d7304d6,owning.locker,available,13.25,37.99,52,7,6,namesilo,,
