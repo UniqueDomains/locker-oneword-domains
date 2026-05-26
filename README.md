@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .locker one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,381 domains · **Median ask:** $398.12 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/locker`  
 **Best for:** founders, investors, studios
 
@@ -70,12 +70,12 @@ print(df.head())
 | geton.locker     | available | $19.99    | —             | 82             | 10     | 6      | name.com  |
 | Adidas.locker    | available | $56.98    | —             | 88             | 24     | 6      | namecheap |
 | playin.locker    | available | $19.99    | —             | 80             | 10     | 7      | name.com  |
-| makeit.locker    | available | $19.99    | —             | 82             | 22     | 7      | name.com  |
+| makeit.locker    | available | $19.99    | —             | 82             | 21     | 7      | name.com  |
 | stirup.locker    | available | $19.99    | —             | 82             | 3      | 7      | name.com  |
 | dogsick.locker   | available | $19.99    | —             | 90             | 1      | 7      | name.com  |
 | getlife.locker   | available | $19.99    | —             | 80             | 5      | 8      | name.com  |
 | Snickers.locker  | available | $56.98    | —             | 80             | 10     | 8      | namecheap |
-| rumcake.locker   | available | $19.99    | —             | 81             | 3      | 8      | name.com  |
+| rumcake.locker   | available | $19.99    | —             | 81             | 2      | 8      | name.com  |
 | FabFour.locker   | available | $13.25    | $37.99        | 82             | 3      | 8      | namesilo  |
 | winners.locker   | premium   | $290.91   | $8.05         | 60             | 81     | 7      | namesilo  |
 | Spotify.locker   | available | $56.98    | —             | 78             | 69     | 7      | namecheap |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LOCKER One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LOCKER One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
