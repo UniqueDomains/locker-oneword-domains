@@ -1,10 +1,10 @@
-# Available .LOCKER One-Word Domains (12,381)
+# Available .LOCKER One-Word Domains (12,382)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C381%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C382%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .locker one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,381 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,382 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,381 domains · **Median ask:** $398.12 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,382 domains · **Median ask:** $261.07 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/locker`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/locker`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .LOCKER one-word domai
 
 ### Files
 
-- `locker.csv` — public CSV extract (1,000 rows)
-- `locker.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `locker.csv`, public CSV extract (1,000 rows)
+- `locker.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| Uber.locker      | available | $56.98    | —             | 88             | 85     | 4      | namecheap |
-| Trex.locker      | available | $56.98    | —             | 80             | 24     | 5      | namecheap |
-| jewels.locker    | available | $19.99    | —             | 80             | 15     | 6      | name.com  |
-| geton.locker     | available | $19.99    | —             | 82             | 10     | 6      | name.com  |
-| Adidas.locker    | available | $56.98    | —             | 88             | 24     | 6      | namecheap |
-| playin.locker    | available | $19.99    | —             | 80             | 10     | 7      | name.com  |
-| makeit.locker    | available | $19.99    | —             | 82             | 21     | 7      | name.com  |
-| stirup.locker    | available | $19.99    | —             | 82             | 3      | 7      | name.com  |
-| dogsick.locker   | available | $19.99    | —             | 90             | 1      | 7      | name.com  |
-| getlife.locker   | available | $19.99    | —             | 80             | 5      | 8      | name.com  |
-| Snickers.locker  | available | $56.98    | —             | 80             | 10     | 8      | namecheap |
-| rumcake.locker   | available | $19.99    | —             | 81             | 2      | 8      | name.com  |
-| FabFour.locker   | available | $13.25    | $37.99        | 82             | 3      | 8      | namesilo  |
-| winners.locker   | premium   | $290.91   | $8.05         | 60             | 81     | 7      | namesilo  |
-| Spotify.locker   | available | $56.98    | —             | 78             | 69     | 7      | namecheap |
-| online.locker    | premium   | $6,250    | —             | 70             | 62     | 7      | name.com  |
-| RedSox.locker    | available | $56.98    | —             | 72             | 60     | 7      | namecheap |
-| travelers.locker | premium   | $290.91   | $8.05         | 58             | 61     | 9      | namesilo  |
-| regions.locker   | available | $19.99    | —             | 64             | 59     | 7      | name.com  |
-| farmers.locker   | premium   | $250      | —             | 54             | 59     | 7      | name.com  |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| adam.locker | available | $13.25    | $37.99        | medium         | high   | 4      | namesilo  |
+| give.locker | resell    | —         | —             | high           | low    | 4      | GoDaddy   |
+| ace.locker  | premium   | $6,500    | $58.50        | high           | medium | 3      | namecheap |
+| atop.locker | available | $13.25    | $37.99        | medium         | low    | 4      | namesilo  |
+| bad.locker  | premium   | $145.46   | $8.05         | high           | medium | 3      | namesilo  |
+| axle.locker | available | $13.25    | $37.99        | high           | high   | 4      | namesilo  |
+| bob.locker  | premium   | $145.46   | $8.05         | high           | medium | 3      | namesilo  |
+| calf.locker | available | $13.25    | $37.99        | high           | low    | 4      | namesilo  |
+| btw.locker  | premium   | $145.46   | $8.05         | high           | low    | 3      | namesilo  |
+| camo.locker | available | $13.25    | $37.99        | high           | low    | 4      | namesilo  |
+| dad.locker  | premium   | $290.91   | $8.05         | high           | low    | 3      | namesilo  |
+| cent.locker | available | $13.25    | $37.99        | high           | low    | 4      | namesilo  |
+| egg.locker  | premium   | $145.46   | $8.05         | high           | low    | 3      | namesilo  |
+| cows.locker | available | $19.99    | —             | medium         | low    | 4      | name.com  |
+| Eid.locker  | premium   | $145.46   | $8.05         | high           | low    | 3      | namesilo  |
+| cyan.locker | available | $13.25    | $37.99        | high           | low    | 4      | namesilo  |
+| fly.locker  | premium   | $3,136.33 | $8.05         | high           | low    | 3      | namesilo  |
+| flop.locker | available | $13.25    | $37.99        | medium         | low    | 4      | namesilo  |
+| gay.locker  | premium   | $145.46   | $8.05         | high           | medium | 3      | namesilo  |
+| fond.locker | available | $13.25    | $37.99        | high           | low    | 4      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 12,381 live domains                        |
+| 1,000-row public sample | 12,382 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is entirely focused on one-word .locker domains. The strongest candidates are simple, readable words that feel natural with the .locker ending and remain easy to recall after a single view. Examples in this selection range from generic terms such as finals.locker and jewels.locker to names that raise clear trademark questions, such as Uber.locker and Adidas.locker. When comparing these domains, start with commercial clarity: does the word create a clean, ownable phrase with .locker, and is the ask justified? With a median ask of $398.12, disciplined buyers should favor names with broad meaning, low ambiguity, and no obvious brand conflict.
+This selection covers one-word and short compound .locker domain names spanning wellness, home, business, and lifestyle themes — from dogwalking.locker to makehistory.locker. With 12,382 names and a median asking price near $261, .locker offers a lower-cost path to a clean, memorable domain outside the mainstream extensions. When comparing these domains, weigh word clarity, renewal cost, and category fit before choosing a name to buy.
 
-- Favor words that read naturally with the .locker extension
-- Median ask is $398.12 across this .locker selection
-- Avoid obvious trademark conflicts in branded terms
-- Prefer memorable generics over forced or unclear wording
+- 12,382 one-word .locker domains across many themes
+- Median asking price near $261 in this set
+- Names span wellness, home, tech, and lifestyle
+- Compare renewal cost before locking in a name
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LOCKER One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LOCKER One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
