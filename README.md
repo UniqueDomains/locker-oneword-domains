@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .locker one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 20,444 domains · **Median ask:** $134.71 · **High-demand under $2,500:** 51
 
-**Last updated:** 2026-09-08
+**Last updated:** 2026-09-09
 **Canonical page:** `https://unique.domains/domains/tld/locker`
 **Best for:** founders, investors, studios
 
@@ -77,7 +77,7 @@ print(df.head())
 | btw.locker  | premium   | $145.46   | $8.05         | high           | low    | 3      | namesilo  |
 | camo.locker | available | $13.25    | $37.99        | high           | low    | 4      | namesilo  |
 | dad.locker  | premium   | $290.91   | $8.05         | high           | low    | 3      | namesilo  |
-| cent.locker | available | $13.25    | $37.99        | high           | low    | 4      | namesilo  |
+| cent.locker | available | $6.88     | $37.99        | medium         | low    | 4      | namesilo  |
 | egg.locker  | premium   | $145.46   | $8.05         | high           | low    | 3      | namesilo  |
 | cows.locker | available | $19.99    | —             | medium         | low    | 4      | name.com  |
 | Eid.locker  | premium   | $145.46   | $8.05         | high           | low    | 3      | namesilo  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LOCKER One-Word Domains*. Version 2026-09-08. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LOCKER One-Word Domains*. Version 2026-09-09. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
