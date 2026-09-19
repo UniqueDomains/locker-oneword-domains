@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .locker one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 27,782 domains · **Median ask:** $98.14 · **High-demand under $2,500:** 54
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-19
 **Canonical page:** `https://unique.domains/domains/tld/locker`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| bad.locker     | premium   | $145.46   | $8.05         | high           | medium | 3      | namesilo  |
-| time.locker    | premium   | $290.91   | $8.05         | high           | medium | 4      | namesilo  |
-| brief.locker   | available | $13.25    | $37.99        | high           | low    | 5      | namesilo  |
-| fancy.locker   | premium   | $145.46   | $8.05         | high           | low    | 5      | namesilo  |
-| perfect.locker | premium   | $145.46   | $8.05         | high           | low    | 7      | namesilo  |
-| vii.locker     | available | $6.88     | $37.99        | low            | low    | 3      | namesilo  |
-| give.locker    | resell    | —         | —             | high           | low    | 4      | GoDaddy   |
-| ace.locker     | premium   | $6,500    | $58.50        | high           | medium | 3      | namecheap |
-| adam.locker    | available | $13.25    | $37.99        | medium         | high   | 4      | namesilo  |
-| ass.locker     | premium   | $159.23   | $8.80         | low            | low    | 3      | namesilo  |
-| atop.locker    | available | $13.25    | $37.99        | medium         | low    | 4      | namesilo  |
-| axle.locker    | available | $13.25    | $37.99        | high           | high   | 4      | namesilo  |
-| bob.locker     | premium   | $145.46   | $8.05         | high           | medium | 3      | namesilo  |
-| calf.locker    | available | $13.25    | $37.99        | high           | low    | 4      | namesilo  |
-| btw.locker     | premium   | $145.46   | $8.05         | high           | low    | 3      | namesilo  |
-| camo.locker    | available | $13.25    | $37.99        | high           | low    | 4      | namesilo  |
-| dad.locker     | premium   | $290.91   | $8.05         | high           | low    | 3      | namesilo  |
-| cent.locker    | available | $6.88     | $37.99        | medium         | low    | 4      | namesilo  |
-| egg.locker     | premium   | $145.46   | $8.05         | high           | low    | 3      | namesilo  |
-| cows.locker    | available | $19.99    | —             | medium         | low    | 4      | name.com  |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| vii.locker  | available | $6.88     | $37.99        | low            | low    | 3      | namesilo  |
+| give.locker | resell    | —         | —             | high           | low    | 4      | GoDaddy   |
+| ace.locker  | premium   | $6,500    | $58.50        | high           | medium | 3      | namecheap |
+| adam.locker | available | $13.25    | $37.99        | medium         | high   | 4      | namesilo  |
+| ass.locker  | premium   | $159.23   | $8.80         | low            | low    | 3      | namesilo  |
+| atop.locker | available | $13.25    | $37.99        | medium         | low    | 4      | namesilo  |
+| bad.locker  | premium   | $145.46   | $8.05         | high           | medium | 3      | namesilo  |
+| axle.locker | available | $13.25    | $37.99        | high           | high   | 4      | namesilo  |
+| bob.locker  | premium   | $145.46   | $8.05         | high           | medium | 3      | namesilo  |
+| calf.locker | available | $13.25    | $37.99        | high           | low    | 4      | namesilo  |
+| btw.locker  | premium   | $145.46   | $8.05         | high           | low    | 3      | namesilo  |
+| camo.locker | available | $13.25    | $37.99        | high           | low    | 4      | namesilo  |
+| dad.locker  | premium   | $290.91   | $8.05         | high           | low    | 3      | namesilo  |
+| cent.locker | available | $6.88     | $37.99        | medium         | low    | 4      | namesilo  |
+| egg.locker  | premium   | $145.46   | $8.05         | high           | low    | 3      | namesilo  |
+| cows.locker | available | $19.99    | —             | medium         | low    | 4      | name.com  |
+| Eid.locker  | premium   | $145.46   | $8.05         | high           | low    | 3      | namesilo  |
+| cyan.locker | available | $13.25    | $37.99        | high           | low    | 4      | namesilo  |
+| fly.locker  | premium   | $3,136.33 | $8.05         | high           | low    | 3      | namesilo  |
+| flop.locker | available | $13.25    | $37.99        | medium         | low    | 4      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LOCKER One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LOCKER One-Word Domains*. Version 2026-09-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
