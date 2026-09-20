@@ -39,7 +39,7 @@ c63fe8e8-989e-424c-a36d-c61c57cd8c61,understandable.locker,available,13.25,37.99
 e94b832c-8e3c-4c43-8885-3c7b24e8c112,since.locker,available,13.25,37.99,high,low,5,namesilo,,,
 8af89647-4291-4fc5-bfb8-81831c58083d,deadofnight.locker,available,13.25,37.99,medium,low,13,namesilo,,,
 0ea8acc1-2f67-4713-aa67-19b40b2def79,already.locker,available,13.25,37.99,high,low,7,namesilo,,,
-c7d91127-f421-4279-995e-a80095d0cb5c,WordofAllah.locker,available,13.25,37.99,low,low,13,namesilo,,,
+c7d91127-f421-4279-995e-a80095d0cb5c,wordofallah.locker,available,13.25,37.99,low,low,13,namesilo,,,
 3cf6f2e8-1808-4d5f-ab7e-ac15e316b7e2,quintuplet.locker,available,6.88,37.99,low,low,10,namesilo,,,
 be75b13a-f52d-4f42-946a-d7130380c51b,categorical.locker,available,13.25,37.99,high,low,11,namesilo,,,
 e258d386-dc80-4301-a472-f3e0c65411ae,covering.locker,available,13.25,37.99,medium,low,8,namesilo,,,
@@ -65,7 +65,7 @@ a7a8ee66-ed7c-4e4d-bca8-399a174a5cdd,photo.locker,premium,1511.35,8.05,high,medi
 4b516cb0-5ccd-4a34-9247-7403c268486c,singapore.locker,available,,,high,low,9,,,,
 0774e172-4de8-4ef9-9379-fe33ea87dcbb,huge.locker,premium,145.46,8.05,high,low,4,namesilo,,,
 f35a0e0e-f8bb-41c2-9273-3c664cd85cca,hindend.locker,available,6.88,37.99,low,low,8,namesilo,,,09/08/2026 11:03
-401a24d4-9d43-4220-9aff-8c6fb334076f,client.locker,premium,159.23,8.8,medium,low,6,namesilo,,,13/09/2026 03:27
+401a24d4-9d43-4220-9aff-8c6fb334076f,client.locker,premium,650,39,low,low,6,namecheap,,,19/09/2026 04:09
 1bbda213-33dc-48c9-937c-2139ce42c1c7,documentation.locker,available,13.25,37.99,medium,low,13,namesilo,,,
 074b1c7e-3cfb-4979-aa79-4503a9b31d2d,chance.locker,premium,53.63,8.05,high,low,6,namesilo,,,
 3f78b8bc-a06a-4df1-8a8d-696c8d534ec3,chips.locker,premium,145.46,8.05,high,low,5,namesilo,,,
@@ -77,7 +77,7 @@ e76ad58b-3ed8-496f-9718-a5904b84e31f,covert.locker,available,13.25,37.99,medium,
 6a807d6f-8ae4-4097-8c33-c48048e9caaa,beating.locker,available,13.25,37.99,high,low,7,namesilo,,,
 13831fc3-3a6c-4e07-8899-96ea17bbf33c,haveseenthisfilm.locker,available,13.25,37.99,medium,low,19,namesilo,,,
 bb7e14e4-5c18-4476-a662-a0a38e0db751,overseas.locker,available,13.25,37.99,medium,low,8,namesilo,,,
-e0c565a2-fb9c-4bb1-9ac0-380361763a8e,AustraliaDay.locker,available,13.25,37.99,high,low,13,namesilo,,,
+e0c565a2-fb9c-4bb1-9ac0-380361763a8e,australiaday.locker,available,13.25,37.99,high,low,13,namesilo,,,
 cc1d1136-981d-4f5f-9411-d19376a3e570,jacobs.locker,available,13.25,37.99,high,low,6,namesilo,,,
 fbe949e0-b3ff-45cd-8649-ca5fe31fd87d,revelatory.locker,available,6.88,37.99,low,low,10,namesilo,,,06/08/2026 00:55
 38319b3b-f12a-409e-bd12-1e5ef6791cf0,parody.locker,available,13.25,37.99,high,low,6,namesilo,,,
@@ -90,7 +90,7 @@ d215c5f3-a09a-4a69-8aab-caf9690ff5df,flooded.locker,available,6.88,37.99,low,low
 06605b1d-768e-48bf-be65-ce8594c59721,whatittakes.locker,available,13.25,37.99,low,low,13,namesilo,,,
 2074fb4a-3dc0-4adb-9005-de2b9f142bf8,orangenotice.locker,available,13.25,37.99,medium,low,13,namesilo,,,
 40476720-eed9-438f-b188-d0a1d5469759,bakinghot.locker,available,6.88,37.99,low,low,10,namesilo,,,08/08/2026 08:52
-285e56e2-0e3b-45df-8694-c0bb7fd7531c,QueenElizabeth.locker,available,13.25,37.99,high,low,15,namesilo,,,
+285e56e2-0e3b-45df-8694-c0bb7fd7531c,queenelizabeth.locker,available,13.25,37.99,high,low,15,namesilo,,,
 2a6e036b-8961-4fe9-9bb4-ffdecc870f87,nineteenth.locker,available,6.88,37.99,low,low,10,namesilo,,,
 fe8122b4-f2b8-4310-8702-65018a3809aa,takeawife.locker,available,13.25,37.99,low,low,11,namesilo,,,
 111488d7-d576-4f5b-8bf6-66aeb45dd234,feels.locker,available,13.25,37.99,high,low,5,namesilo,,,
@@ -127,7 +127,7 @@ fbe11cfb-0266-4c1b-aab8-740f94ca11cc,oldgeezer.locker,available,6.88,37.99,low,l
 98a517bd-2032-4443-ba59-ae847173d16b,experimental.locker,available,13.25,37.99,high,low,12,namesilo,,,
 bc9d318f-6f23-4f22-ac86-fc856f345820,antipodean.locker,available,6.88,37.99,low,low,10,namesilo,,,
 3ecbdbdd-ee51-4502-bd50-949626288109,midday.locker,available,13.25,37.99,high,low,6,namesilo,,,
-0207bc85-661f-438f-afc0-5bf27437cb6f,Harold.locker,available,13.25,37.99,high,low,6,namesilo,,,
+0207bc85-661f-438f-afc0-5bf27437cb6f,harold.locker,available,13.25,37.99,high,low,6,namesilo,,,
 3cb1fd0e-bd2f-4c2f-bb19-864b0631e560,financialcrisis.locker,available,13.25,37.99,medium,low,16,namesilo,,,
 64ed02dc-6419-46d9-a09d-fd1f91ffc7a0,provider.locker,premium,1511.35,8.05,high,low,8,namesilo,,,
 91d99cef-5ce1-45cc-8be1-c9970184037d,getthebetterof.locker,available,13.25,37.99,high,low,17,namesilo,,,
@@ -154,7 +154,7 @@ cb8c6711-327a-488e-bf8b-674a486517c4,changing.locker,premium,1511.35,8.05,medium
 18ba7804-445f-45e4-a216-f5cafa14b0f3,compact.locker,available,13.25,37.99,high,low,7,namesilo,,,
 87a94498-3e99-4bb6-9327-47589897c418,naturewriting.locker,available,13.25,37.99,low,low,14,namesilo,,,
 971a2d3a-7160-4c47-a762-3f27a5979872,plaguy.locker,available,6.88,37.99,low,low,6,namesilo,,,
-93a279fe-62b6-4725-9fe5-1aeea4fcbc24,ice.locker,premium,159.23,8.8,medium,medium,3,namesilo,,,14/09/2026 04:24
+93a279fe-62b6-4725-9fe5-1aeea4fcbc24,ice.locker,premium,159.23,8.8,low,low,3,namesilo,,,19/09/2026 17:13
 0507f1a1-95f2-4f3d-aa2d-1cb8993a1a04,irrational.locker,available,13.25,37.99,high,low,10,namesilo,,,
 84ce6b20-81f9-4761-892e-8cce99db1ea9,top.locker,premium,3136.33,8.05,high,medium,3,namesilo,,,
 2d654b85-9502-4b61-b219-ec0a848030ec,nostrilhair.locker,available,19.99,,low,low,12,name.com,,,
@@ -173,7 +173,7 @@ d9574752-7ff6-4af4-8d70-89b4c8fbbe49,mothahfuckah.locker,available,13.25,37.99,m
 3409039a-bcf1-4ad7-bb99-0e79fa5277b5,closeinon.locker,available,13.25,37.99,high,low,11,namesilo,,,
 d4f324e5-4630-4023-ad93-a82db4bbcf7a,brief.locker,available,13.25,37.99,high,low,5,namesilo,,,
 7f32420b-ac4b-47ba-acd2-633d20ab4bf7,achromous.locker,available,6.88,37.99,low,low,9,namesilo,,,
-1ee75e98-10a1-491a-aee2-a9bcb9d9a7e1,goDutch.locker,available,13.25,37.99,medium,low,8,namesilo,,,
+1ee75e98-10a1-491a-aee2-a9bcb9d9a7e1,godutch.locker,available,13.25,37.99,medium,low,8,namesilo,,,
 200e99ce-4fde-447d-a742-7ba78b2f8237,firstrate.locker,available,6.88,37.99,low,low,10,namesilo,,,
 e79efce1-d947-4b38-a5d3-eaaad32abe5c,inspirational.locker,available,13.25,37.99,high,low,13,namesilo,,,
 8208b1f4-7117-4d6f-96fa-21a29ff33e4e,cons.locker,premium,145.46,8.05,high,low,4,namesilo,,,
@@ -208,7 +208,7 @@ c6094302-2115-4df4-88e2-8921939b0779,annoy.locker,available,13.25,37.99,high,low
 734e9039-f26e-48d1-b596-a5e49e988806,auxetic.locker,available,6.88,37.99,low,low,7,namesilo,,,07/08/2026 21:28
 edb985ca-1e40-4d82-9ee6-725afd827998,layer.locker,premium,1511.35,8.05,medium,low,5,namesilo,,,
 12d80097-8c2f-4692-ad4c-93bfd3870491,acarpelous.locker,available,6.88,37.99,low,low,10,namesilo,,,
-07f33536-2182-4664-b1ec-65a6801d818a,HillCity.locker,available,13.25,37.99,medium,low,9,namesilo,,,
+07f33536-2182-4664-b1ec-65a6801d818a,hillcity.locker,available,13.25,37.99,medium,low,9,namesilo,,,
 63827115-597b-4966-9740-8e737878116e,however.locker,available,13.25,37.99,high,low,7,namesilo,,,
 67a8f459-145f-4aae-bc55-cba22c6f7662,commonera.locker,available,13.25,37.99,medium,low,10,namesilo,,,
 1a57df0c-a0d3-4331-9177-c8d10b4c18ed,disclosure.locker,available,19.99,,medium,low,10,name.com,,,
@@ -231,7 +231,7 @@ b48cf2b8-9093-4963-b39e-0fc196e520b2,annulated.locker,available,6.88,37.99,low,l
 8cb0a523-f551-4c96-a4db-05d5c9dd4091,ass.locker,premium,159.23,8.8,low,low,3,namesilo,,,09/08/2026 12:05
 3d8a6f04-1d15-463e-a019-c0615460d2c5,bluegreen.locker,available,13.25,37.99,high,low,10,namesilo,,,
 e17b6794-3e03-471f-b053-55fccdbebef5,real.locker,premium,6500,58.5,high,medium,4,namecheap,,,
-38ae6638-09d5-48ce-b357-bdca64078bc6,Nicole.locker,available,13.25,37.99,high,low,6,namesilo,,,
+38ae6638-09d5-48ce-b357-bdca64078bc6,nicole.locker,available,13.25,37.99,high,low,6,namesilo,,,
 1da06b91-f252-4f63-88e8-55e11cd28f9d,cannabis.locker,premium,7840.82,8.05,medium,medium,8,namesilo,,,
 eacc492c-a180-481a-9344-20e4a2d712c3,although.locker,available,13.25,37.99,medium,low,8,namesilo,,,
 18aebdd7-c02b-4bb4-a275-34ec2741c720,egg.locker,premium,145.46,8.05,high,low,3,namesilo,,,
@@ -259,12 +259,12 @@ a7e0ae8d-c1c5-4cf0-a7e5-1f489c0f1adb,adaptive.locker,available,13.25,37.99,high,
 57efb170-d3e5-4790-9b97-1332e3cf2d6a,askew.locker,premium,318.46,8.8,low,low,5,namesilo,,,07/08/2026 03:31
 02e4567d-75ca-4b10-8214-79a24527427a,airdried.locker,available,6.88,37.99,low,low,9,namesilo,,,
 ac16c070-7b1c-4c0e-bff7-9acf5599db4a,surfer.locker,premium,250,,high,low,6,name.com,,,
-cbaa7ce1-cd63-40fc-8d65-688d0bfc6794,Igotmine.locker,available,13.25,37.99,medium,low,10,namesilo,,,
+cbaa7ce1-cd63-40fc-8d65-688d0bfc6794,igotmine.locker,available,13.25,37.99,medium,low,10,namesilo,,,
 10797cf9-778c-4a93-8699-b566928b8fdb,creatively.locker,available,19.99,,medium,low,10,name.com,,,
 bbeec967-87e0-4a44-99cd-740af1e408eb,defined.locker,available,13.25,37.99,medium,low,7,namesilo,,,
 0208e44d-2d6b-4155-b7c4-c5ddb4beaa9a,freshair.locker,available,13.25,37.99,high,low,9,namesilo,,,
 a24c8c70-9f25-4ab4-92de-d7fd3a3b02bb,actuated.locker,available,6.98,56.98,low,low,8,namecheap,,,
-db2e85a2-8240-40fa-9580-6ec55bef3f41,Instagrammable.locker,available,13.25,37.99,high,low,14,namesilo,,,
+db2e85a2-8240-40fa-9580-6ec55bef3f41,instagrammable.locker,available,13.25,37.99,high,low,14,namesilo,,,
 6ccc3653-b838-43b2-9d75-cae17d1517f1,commonkiwi.locker,available,19.99,,medium,low,11,name.com,,,
 e5b0c66c-5f5c-4a94-9b7a-d27ffb90cc72,whatthehell.locker,available,13.25,37.99,low,low,13,namesilo,,,
 4b484928-965e-40a8-a59a-8c2f915960f6,batman.locker,available,13.25,37.99,high,low,6,namesilo,,,
@@ -285,7 +285,7 @@ c54c4089-7204-4c06-8535-1a7255019c87,keepcompany.locker,available,13.25,37.99,hi
 59e9043c-be57-406b-a273-6e791368f050,guestchair.locker,available,13.25,37.99,medium,low,11,namesilo,,,
 229fd1c6-777d-4fcc-afbd-5654cf07f00c,scenicroute.locker,available,13.25,37.99,high,low,12,namesilo,,,
 337136ed-9c1c-4a26-ac57-07068a29f1cd,backalley.locker,available,13.25,37.99,medium,low,10,namesilo,,,
-e2613690-ea84-44a7-89e7-6283cf06e4db,Points.locker,available,,,medium,low,6,,,,
+e2613690-ea84-44a7-89e7-6283cf06e4db,points.locker,available,,,medium,low,6,,,,
 a36eebab-5362-4a0a-8501-d8a322a88207,bashful.locker,available,6.88,37.99,low,low,7,namesilo,,,08/08/2026 22:01
 bf854fe4-ee78-487f-b174-7ef8b1ac35bc,original.locker,premium,290.91,8.05,high,low,8,namesilo,,,
 748af58f-f3bf-48ad-b75b-de946344fb99,apocrine.locker,available,6.88,37.99,low,low,8,namesilo,,,06/08/2026 01:05
@@ -320,7 +320,7 @@ ceebd18c-c532-482a-ad62-246dd20ef9dc,wound.locker,available,13.25,37.99,high,low
 47e8b7e2-6076-4595-86bd-dd410187380d,givesomeoneahand.locker,available,13.25,37.99,high,low,19,namesilo,,,
 ac7388e0-b426-4407-8cc3-24de3466a7da,returning.locker,available,19.99,,high,low,9,name.com,,,
 14ca42da-6203-4df2-83e4-3a7ae78180df,camo.locker,available,13.25,37.99,high,low,4,namesilo,,,
-455cb84a-78a0-472b-a31d-370c7b4c0db6,intruth.locker,available,6.88,37.99,low,low,8,namesilo,,,15/09/2026 07:18
+455cb84a-78a0-472b-a31d-370c7b4c0db6,intruth.locker,available,6.88,37.99,low,low,8,namesilo,,,19/09/2026 10:53
 e029807d-25a1-464c-8171-f8d112b2685d,utterly.locker,available,13.25,37.99,medium,low,7,namesilo,,,
 4c9fb663-fe6e-4dde-a9f6-1f05fee232b0,stung.locker,available,6.88,37.99,low,low,5,namesilo,,,
 a7a73430-2dbd-45d0-925d-f0dd671a90d7,haveworkdone.locker,available,13.25,37.99,medium,low,14,namesilo,,,
@@ -330,7 +330,7 @@ a7a73430-2dbd-45d0-925d-f0dd671a90d7,haveworkdone.locker,available,13.25,37.99,m
 7cb35d15-45c7-4894-9a9d-88b0872e13a9,beetling.locker,available,6.88,37.99,low,low,8,namesilo,,,09/08/2026 08:22
 eda5546f-f080-440d-900d-13955625ba46,babylonian.locker,available,6.88,37.99,low,low,10,namesilo,,,08/08/2026 03:58
 f6bc9cdf-b8be-4e72-b6e2-74a00d2b1460,azygous.locker,available,6.88,37.99,low,low,7,namesilo,,,08/08/2026 03:27
-bab01d21-e66a-4e67-819b-91203b60277f,Spanishrice.locker,available,13.25,37.99,low,low,12,namesilo,,,
+bab01d21-e66a-4e67-819b-91203b60277f,spanishrice.locker,available,13.25,37.99,low,low,12,namesilo,,,
 83985513-8a4c-4dfd-998c-2f381d4f2abc,preference.locker,available,13.25,37.99,high,low,10,namesilo,,,
 0dba450a-9b71-47e4-98c6-3b606b403b5d,james.locker,available,13.25,37.99,high,medium,5,namesilo,,,
 49a6d1b5-b661-4aa1-ad45-7a64c8b37dc0,adenoid.locker,available,6.88,37.99,low,low,7,namesilo,,,
@@ -378,7 +378,7 @@ b1813247-8d1d-4b41-97ed-e44615cb4bd7,ifalle.locker,available,13.25,37.99,medium,
 d985467b-0e7f-40eb-bcb4-7c17807e570e,pointat.locker,available,13.25,37.99,low,low,8,namesilo,,,
 d3b31e57-c847-4e9c-be73-ef8044be6582,lxxvii.locker,available,6.98,56.98,low,low,6,namecheap,,,
 efe5972a-2b70-44ae-9404-2c2179a0d44d,anestric.locker,available,6.88,37.99,low,low,8,namesilo,,,
-49468184-a5f3-4657-b2a7-5a162e321f9f,ISO.locker,available,,,high,low,3,,,,
+49468184-a5f3-4657-b2a7-5a162e321f9f,iso.locker,available,,,high,low,3,,,,
 d2c6d440-3b7d-41f4-9c41-a2ce69d244e4,chanukkah.locker,available,13.25,37.99,medium,low,9,namesilo,,,
 b0b5fb1d-307b-44f4-bf0e-3d9749e1fa75,atworst.locker,available,13.25,37.99,medium,low,8,namesilo,,,
 1777338f-e846-4311-98b4-2a1c5c5ae512,bareassed.locker,available,6.98,56.98,low,low,10,namecheap,,,08/08/2026 18:05
@@ -391,7 +391,7 @@ e4b45f38-d113-43bd-807b-f65d4fe1937b,airfreshener.locker,available,13.25,37.99,h
 83f68b46-f58c-45d4-a800-549c92bd5bc8,organ.locker,available,13.25,37.99,high,low,5,namesilo,,,
 5d2730bb-60d2-4245-a227-dd2e3615a669,bringit.locker,available,13.25,37.99,high,low,8,namesilo,,,
 f9d97971-5bd7-4778-92c2-bf64a4d4c15a,urban.locker,premium,290.91,8.05,medium,low,5,namesilo,,,
-e44498d9-6b15-406e-9d85-e1f6b2b2b541,markets.locker,premium,318.46,8.8,medium,low,7,namesilo,,,14/09/2026 02:05
+e44498d9-6b15-406e-9d85-e1f6b2b2b541,markets.locker,premium,318.46,8.8,low,low,7,namesilo,,,19/09/2026 05:44
 1d4a2715-cda7-47cb-9372-25571e781b52,lookinto.locker,available,13.25,37.99,high,low,9,namesilo,,,
 4396be3b-d9f3-4d06-ac22-a1bc74540785,late.locker,available,13.25,37.99,high,low,4,namesilo,,,
 1b441024-e998-4581-b945-b480e956b318,auditory.locker,available,13.25,37.99,high,low,8,namesilo,,,
@@ -477,15 +477,15 @@ ecbadcbf-2e8a-467d-b1bc-7d5271d7de68,rescheduling.locker,available,13.25,37.99,m
 c3e7ad9f-068f-408a-95ca-668050c03c87,whitesauce.locker,available,13.25,37.99,low,low,11,namesilo,,,
 e81a5df3-d1fe-49fd-89f6-f5534c2f3e96,localtime.locker,available,13.25,37.99,medium,low,10,namesilo,,,
 38e6277e-43fb-4a64-a6ca-14cadd027653,brute.locker,available,6.88,37.99,low,low,5,namesilo,,,
-91ac78a6-2f6e-47eb-a4bc-fbab49f470a5,canon.locker,available,6.88,37.99,medium,medium,5,namesilo,,,14/09/2026 03:48
-ede62c55-f268-43de-8b3b-3839fb165c3f,Americas.locker,premium,290.91,8.05,medium,low,8,namesilo,,,
+91ac78a6-2f6e-47eb-a4bc-fbab49f470a5,canon.locker,available,6.88,37.99,low,low,5,namesilo,,,19/09/2026 11:56
+ede62c55-f268-43de-8b3b-3839fb165c3f,americas.locker,premium,290.91,8.05,medium,low,8,namesilo,,,
 7e4e5743-e83e-4c14-885b-e2033545a7cc,windmill.locker,available,6.88,37.99,low,low,9,namesilo,,,17/09/2026 13:01
 49fd42e2-4515-4bfb-8c3c-23a21fdaf78a,advisory.locker,available,6.88,37.99,medium,low,8,namesilo,,,
 df598d7c-e96a-4610-9027-4bf7af2f787e,thereagain.locker,available,19.99,,low,low,11,name.com,,,
 4e21488c-b563-408b-837e-f12d1cd1ece2,preventive.locker,available,13.25,37.99,high,low,10,namesilo,,,
 c91cdeae-ff30-45ed-b72c-857af8664e31,childbenefit.locker,available,13.25,37.99,medium,low,13,namesilo,,,
 8240827a-1c0d-4ff3-8c0e-45369a96feac,taxation.locker,available,13.25,37.99,medium,low,8,namesilo,,,
-5cd568da-3838-48f6-a8c6-60b22775ccc0,Frenchonionsoup.locker,available,19.99,,high,low,17,name.com,,,
+5cd568da-3838-48f6-a8c6-60b22775ccc0,frenchonionsoup.locker,available,19.99,,high,low,17,name.com,,,
 143ad01c-fe05-4cfd-affe-295ebda4561c,rust.locker,available,19.99,,medium,low,4,name.com,,,
 4dd07452-7537-4d0d-9da8-2083e499be7e,wording.locker,available,13.25,37.99,high,low,7,namesilo,,,
 818f1891-43f4-4b0c-84e7-6cd818be4637,motley.locker,available,6.88,37.99,low,low,6,namesilo,,,07/08/2026 07:29
@@ -497,7 +497,7 @@ ad31336f-1285-4a41-92a6-c6c2f2696ed5,btw.locker,premium,145.46,8.05,high,low,3,n
 7fb0494e-2c3c-423e-913c-9c1ceab7446f,desktopcomputer.locker,available,13.25,37.99,high,low,16,namesilo,,,
 c7fddc96-fed1-4ebf-bd6c-4f6db265a643,supposedly.locker,available,13.25,37.99,medium,low,10,namesilo,,,
 0f9804b8-27c7-4507-a1d0-7c99137fe874,oldest.locker,available,13.25,37.99,high,low,6,namesilo,,,
-354e1b56-6c9b-432c-81f3-e656d67a9579,LongIsland.locker,available,19.99,,medium,low,11,name.com,,,
+354e1b56-6c9b-432c-81f3-e656d67a9579,longisland.locker,available,19.99,,medium,low,11,name.com,,,
 4103757b-e152-4393-b15e-55c2efdc3ba3,askance.locker,available,6.88,37.99,low,low,7,namesilo,,,07/08/2026 02:56
 b3e252ad-c5ff-40be-8803-874507fdc1de,among.locker,available,13.25,37.99,medium,low,5,namesilo,,,
 7f678711-db75-435a-925c-63c51f76020e,similar.locker,available,6.88,37.99,medium,low,7,namesilo,,,
@@ -524,7 +524,7 @@ eb4ee55a-21ad-4d66-a56c-6a6c6510e053,letloose.locker,available,13.25,37.99,high,
 550d70a1-076a-400d-ac79-1eda4f1044a7,occasion.locker,available,13.25,37.99,high,low,8,namesilo,,,
 a1bfc92d-fa1e-42ef-9ed3-e20445584fe3,duplicate.locker,available,13.25,37.99,high,low,9,namesilo,,,
 6a8e6210-b61f-45ac-b373-233ca3e40905,antiknock.locker,available,6.88,37.99,low,low,9,namesilo,,,
-7b899f85-e200-4ab9-87c6-bd5b6334de5b,Iwantmymoneyback.locker,available,13.25,37.99,medium,low,20,namesilo,,,
+7b899f85-e200-4ab9-87c6-bd5b6334de5b,iwantmymoneyback.locker,available,13.25,37.99,medium,low,20,namesilo,,,
 bd032bd9-2fb6-4132-a4f3-488a307f8710,arriving.locker,available,19.99,,medium,low,8,name.com,,,
 a936fdc3-ddf8-4c70-a008-f6d297a174e2,time.locker,premium,290.91,8.05,high,medium,4,namesilo,,,
 e3e30901-6cb1-4227-aec4-e8aa6de5930a,agonising.locker,available,6.88,37.99,low,low,9,namesilo,,,
@@ -584,7 +584,7 @@ e0443662-38d8-44a0-a610-667475c661cb,trick.locker,available,19.99,,high,low,5,na
 b726cdf6-cfaf-4bb1-950a-52c85fc52259,ambitiously.locker,available,19.99,,medium,low,11,name.com,,,
 3fd76fbb-ffd6-4971-90e4-6146f7967610,disparity.locker,available,13.25,37.99,medium,low,9,namesilo,,,
 de3e577d-87de-49db-8fa7-479ee72b1730,sandlike.locker,available,6.88,37.99,low,low,8,namesilo,,,06/08/2026 17:36
-16fb5a51-e2b4-4169-b2db-a10a66480dcd,Eid.locker,premium,145.46,8.05,high,low,3,namesilo,,,
+16fb5a51-e2b4-4169-b2db-a10a66480dcd,eid.locker,premium,145.46,8.05,high,low,3,namesilo,,,
 46f4bb2c-7f96-4f84-8cb9-7b342aa1b671,faxmachine.locker,available,13.25,37.99,medium,low,11,namesilo,,,
 2c88214e-6214-40f3-8b44-d225980656e0,unveil.locker,available,13.25,37.99,high,low,6,namesilo,,,
 c7e17cc6-2623-43a7-bacd-c1ab61265fd5,holdfirm.locker,available,13.25,37.99,high,low,9,namesilo,,,
@@ -606,11 +606,10 @@ d38ebeca-7f79-44c5-bc0b-9a74041ab16a,afflictive.locker,available,6.88,37.99,low,
 0342ec99-68d9-4e10-932d-5a508a54433a,may.locker,premium,625,,high,low,3,name.com,,,
 94e6040d-bb4d-4e8e-8449-93c404cdeacd,archaic.locker,available,6.88,37.99,low,low,7,namesilo,,,
 a9ffed86-fffa-4eb3-b03a-249bd40df4d4,areolate.locker,available,6.98,56.98,low,low,8,namecheap,,,06/08/2026 17:47
-2d874f18-b971-474a-b4a4-7e589b4a2ef6,buy.locker,available,,,high,medium,3,,,,
 be5d0dec-cd57-4407-81dc-0e199f2e4352,dogshot.locker,available,13.25,37.99,high,low,8,namesilo,,,
 da5c1c48-bb5e-4c26-b433-5814b1b849e9,barehanded.locker,available,6.98,56.98,low,low,10,namecheap,,,08/08/2026 19:10
 26e26dc7-1b89-4743-beff-00332102e1aa,astatic.locker,available,6.88,37.99,low,low,7,namesilo,,,07/08/2026 08:36
-78f3e7e3-57e2-449d-8e01-db165191777a,Rhianna.locker,available,13.25,37.99,high,low,7,namesilo,,,
+78f3e7e3-57e2-449d-8e01-db165191777a,rhianna.locker,available,13.25,37.99,high,low,7,namesilo,,,
 a79fe7c2-7356-4b5c-8898-f10477988486,ace.locker,premium,6500,58.5,high,medium,3,namecheap,,,
 48a34d29-49dc-4a63-8bf3-b44f323519d2,retain.locker,available,13.25,37.99,high,low,6,namesilo,,,
 7ef2f534-a65c-4cd6-bb6a-002d0dfbb98c,advert.locker,available,13.25,37.99,high,low,6,namesilo,,,
@@ -637,7 +636,7 @@ e4ec9453-a1e2-492f-96ba-c8d3de495d67,sellbydate.locker,available,13.25,37.99,med
 6d6031b3-56e7-4067-ab19-98f51b0d5d89,boat.locker,premium,145.46,8.05,high,low,4,namesilo,,,
 be3704ce-1222-4b62-8387-4366910528b8,tornadowarning.locker,available,13.25,37.99,medium,low,15,namesilo,,,
 72638dd4-ed95-420a-aa09-31f2e988deac,map.locker,premium,1300,58.5,high,medium,3,namecheap,,,
-cbdc3698-c545-4df7-97b7-ebaaca498976,Maidens.locker,available,13.25,37.99,high,low,7,namesilo,,,
+cbdc3698-c545-4df7-97b7-ebaaca498976,maidens.locker,available,13.25,37.99,high,low,7,namesilo,,,
 73e160a4-7ff0-4cce-b8e9-6c175355cea9,auspicious.locker,available,13.25,37.99,high,low,10,namesilo,,,
 1cccad82-3e6f-423a-b198-303fe04ad287,receipts.locker,available,13.25,37.99,medium,low,8,namesilo,,,
 c6b9e833-d56e-479b-b548-6572cd35a4d0,aminic.locker,available,6.98,56.98,low,low,6,namecheap,,,
@@ -672,7 +671,7 @@ f6eb094b-a67f-4cbd-b71f-9cd739459611,thirteenth.locker,available,6.88,37.99,low,
 54a92fe9-4da3-4108-9507-b41f43da62ef,years.locker,available,19.99,,high,low,5,name.com,,,
 14f9e666-a1b8-4075-bc0a-7d4db7995e50,province.locker,available,13.25,37.99,medium,low,8,namesilo,,,
 db523cbe-8e93-4bd1-ad4f-5831eee0910b,middleage.locker,available,13.25,37.99,medium,low,10,namesilo,,,
-e75007fa-9fff-47cf-9291-dae50c231bb2,Skype.locker,available,13.25,37.99,high,medium,5,namesilo,,,
+e75007fa-9fff-47cf-9291-dae50c231bb2,skype.locker,available,13.25,37.99,high,medium,5,namesilo,,,
 ed1c2a2e-c487-4e0a-8af9-6e30b4fe8d88,nearly.locker,available,13.25,37.99,high,low,6,namesilo,,,
 33c03dc0-9e81-4d77-8e9e-49483e12bc13,ataxic.locker,available,6.88,37.99,low,low,6,namesilo,,,07/08/2026 12:32
 0459f575-9457-4d3f-9913-0f9e6c0bf235,middleclass.locker,available,13.25,37.99,medium,low,12,namesilo,,,
@@ -688,9 +687,9 @@ c1c80945-ef26-48af-8347-a5c570595513,spend.locker,available,13.25,37.99,high,low
 17758628-668b-424e-b387-13dde436db3a,animating.locker,available,13.25,37.99,high,low,9,namesilo,,,
 887cec6f-a6bf-41b6-968c-9db528ad7492,offcolor.locker,available,6.88,37.99,low,low,9,namesilo,,,09/08/2026 02:10
 5a6fffe0-16c2-4be6-98c2-19a71d127911,facilitating.locker,available,13.25,37.99,medium,low,12,namesilo,,,
-7e81e306-a127-493d-a691-1429323d016d,nourishing.locker,available,6.88,37.99,medium,low,10,namesilo,,,15/09/2026 02:55
+7e81e306-a127-493d-a691-1429323d016d,nourishing.locker,available,6.98,56.98,medium,low,10,namecheap,,,19/09/2026 17:50
 8fefc76e-c76f-4d51-8e0d-372f060116cf,whatabout.locker,available,19.99,,low,low,10,name.com,,,
-83b652a8-abe1-44e0-bab7-0c202425444c,SouthAmerican.locker,available,19.99,,low,low,14,name.com,,,
+83b652a8-abe1-44e0-bab7-0c202425444c,southamerican.locker,available,19.99,,low,low,14,name.com,,,
 3d669148-e036-486b-9246-99d5a621a8e8,consultant.locker,premium,53.63,8.05,high,low,10,namesilo,,,
 e66ebfe7-3985-40e7-82cd-8a0ccdedbd11,apostolic.locker,available,6.88,37.99,low,low,9,namesilo,,,06/08/2026 04:04
 5ad793ac-d2ae-4999-a430-d88559494b28,shooting.locker,available,13.25,37.99,medium,low,8,namesilo,,,
@@ -707,7 +706,7 @@ e8f9eb7b-25df-45e7-9249-4f63854c698a,perfect.locker,premium,145.46,8.05,high,low
 34a75700-aaf4-4db0-a4cb-0a678427d7a5,livid.locker,available,6.88,37.99,low,low,5,namesilo,,,07/08/2026 02:24
 2ceb1286-e64b-49ed-8131-4d5c9b8e4c88,teeshirt.locker,available,19.99,,high,low,9,name.com,,,
 3bdff997-a163-4f13-82b0-416bfbabcb9d,takingaway.locker,available,19.99,,low,low,11,name.com,,,
-e33f26ce-93d3-4a31-8a29-f11ea4b11692,party.locker,premium,318.46,8.8,medium,low,5,namesilo,,,14/09/2026 05:45
+e33f26ce-93d3-4a31-8a29-f11ea4b11692,party.locker,premium,318.46,8.8,medium,low,5,namesilo,,,19/09/2026 09:39
 892c3fd8-98ef-463d-9692-ad2e6ed8171b,whip.locker,available,13.25,37.99,high,low,4,namesilo,,,
 22180c9d-51c8-40ef-b036-43a18ff3b4e4,cheesefood.locker,available,13.25,37.99,medium,low,11,namesilo,,,
 3ec0164d-296b-477e-861f-9d259314e0f7,amethyst.locker,available,13.25,37.99,medium,low,8,namesilo,,,
@@ -726,7 +725,7 @@ cae8c222-e729-4178-a636-aa86d726e6f8,diploma.locker,premium,145.46,8.05,high,low
 894a0114-9dd2-4d75-aab9-ab0762bb8b48,torturous.locker,available,6.98,56.98,low,low,9,namecheap,,,
 0a3a50e0-7259-4c05-9d1b-beda99c78dbf,lecture.locker,available,13.25,37.99,high,low,7,namesilo,,,
 5b47e6ad-8774-4862-8e50-c4188b8f50d6,perfected.locker,available,13.25,37.99,high,low,9,namesilo,,,
-5b91a9e3-568f-4578-8f28-bc05751a3540,industry.locker,premium,1511.35,8.05,medium,medium,8,namesilo,,,
+5b91a9e3-568f-4578-8f28-bc05751a3540,industry.locker,premium,1654.52,8.8,medium,low,8,namesilo,,,19/09/2026 13:49
 a79cb848-51d0-4a61-bae2-6726aca671a5,agamous.locker,available,6.88,37.99,low,low,7,namesilo,,,
 9c985c66-1a84-4dcd-b853-86f8db6bf37e,forth.locker,available,13.25,37.99,high,low,5,namesilo,,,
 1b5c3f05-5a5e-41b3-b2eb-d94d0a9d7bff,whatever.locker,premium,625,,high,low,8,name.com,,,
@@ -771,9 +770,9 @@ f0f26316-6e31-4c5c-bb35-9cf323377b18,protective.locker,available,13.25,37.99,hig
 c6e234de-d579-4a29-a3bd-e5b0fd098bfd,televisionchannel.locker,available,13.25,37.99,high,low,18,namesilo,,,
 80099b13-4867-4cf3-9908-63be319394ab,asopposedto.locker,available,13.25,37.99,medium,low,13,namesilo,,,
 5604fcad-3202-4c90-ae5a-c90165a6f4ed,asyouknow.locker,available,13.25,37.99,medium,low,11,namesilo,,,
-241cc335-4a8b-4c5d-a3f0-67d3b2208ea0,food.locker,premium,6500,58.5,high,medium,4,namecheap,,,
+241cc335-4a8b-4c5d-a3f0-67d3b2208ea0,food.locker,premium,1654.52,8.8,medium,low,4,namesilo,,,19/09/2026 10:31
 035c72bf-823d-4bfe-975e-7c4acfb843c4,airtight.locker,available,6.98,56.98,medium,low,8,namecheap,,,
-8248bd49-d640-4f5d-96b6-7873ec8968af,backup.locker,premium,3136.33,8.05,high,low,6,namesilo,,,
+8248bd49-d640-4f5d-96b6-7873ec8968af,backup.locker,premium,3433.44,8.8,medium,low,6,namesilo,,,20/09/2026 03:14
 96eabef7-7cfe-40b4-bb0b-eb58f590a1f2,cleared.locker,available,13.25,37.99,high,low,7,namesilo,,,
 d97bce17-c307-41db-8b0e-fde28053b343,commenting.locker,available,19.99,,medium,low,10,name.com,,,
 7d179c34-febb-47e9-8bd6-aaffc781e8e3,medication.locker,premium,42,42,high,low,10,namecheap,,,
@@ -791,7 +790,7 @@ bbd845f1-e156-4881-a82e-91c91557b8ad,teastrainer.locker,available,13.25,37.99,hi
 da795ee3-6c84-4119-8244-a25c62b1726d,becoming.locker,available,6.88,37.99,low,low,8,namesilo,,,09/08/2026 06:08
 01753aa8-5ce3-4f3f-9f94-5842448a6b75,goup.locker,available,6.88,37.99,medium,low,5,namesilo,,,03/09/2026 14:22
 fcefdb27-f3d8-48b1-867d-a700c8f166e7,sterile.locker,available,19.99,,medium,low,7,name.com,,,
-da7df97c-3c98-408b-b391-ce3f37cb8ed6,turmeric.locker,available,6.88,37.99,medium,low,8,namesilo,,,12/09/2026 11:21
+da7df97c-3c98-408b-b391-ce3f37cb8ed6,turmeric.locker,available,6.88,37.99,medium,low,8,namesilo,,,19/09/2026 15:28
 37fa51c4-9b34-4e49-83e6-b9387c43773e,diskspace.locker,available,13.25,37.99,high,low,10,namesilo,,,
 8ec9e4f3-220f-4021-bb3d-02814a1cec19,nutritive.locker,available,6.88,37.99,medium,low,9,namesilo,,,08/09/2026 09:04
 6b407f93-4494-439a-a174-9601cbbfca3f,turnabout.locker,available,13.25,37.99,low,low,10,namesilo,,,
@@ -813,7 +812,7 @@ cf6b22c8-edcd-4e9e-a178-f3dc86cbf50a,affixed.locker,available,6.88,37.99,low,low
 7de9b2a6-88da-4de7-8f28-f13051c2502a,mass.locker,premium,650,58.5,high,low,4,namecheap,,,
 75f0b5de-7064-420c-a7c5-199ab9e8ddce,room.locker,premium,1654.52,8.8,medium,low,4,namesilo,,,08/09/2026 08:37
 af365943-d452-4446-af52-73d4a2462422,atbest.locker,available,13.25,37.99,medium,low,7,namesilo,,,
-42abccae-11a5-4b2c-9f99-a156314d54cb,WestEnd.locker,available,13.25,37.99,medium,low,8,namesilo,,,
+42abccae-11a5-4b2c-9f99-a156314d54cb,westend.locker,available,13.25,37.99,medium,low,8,namesilo,,,
 9cf57697-b227-4dc0-879d-193293aa6b1f,recondite.locker,available,6.88,37.99,low,low,9,namesilo,,,
 290ea4f5-d225-4b35-a00a-aede8ecdbd71,plentiful.locker,available,13.25,37.99,high,low,9,namesilo,,,
 80d84c2b-f2f6-4425-8a7f-9ed041d3ebd1,howaboutthat.locker,available,19.99,,medium,low,14,name.com,,,
@@ -870,7 +869,7 @@ b80d106c-0a28-44c6-8f92-c8b58a310d26,concluded.locker,available,6.88,37.99,low,l
 026df6bf-39fa-4b5d-9d33-c65335a715f7,patrisib.locker,available,6.88,37.99,low,low,8,namesilo,,,
 23529d1e-cfd3-47ad-a166-9c75e33e27a4,cyan.locker,available,13.25,37.99,high,low,4,namesilo,,,
 8da9a8a3-1d13-4ce5-a8a9-9f1ac450224b,nitrous.locker,available,6.88,37.99,low,low,7,namesilo,,,08/08/2026 03:03
-c9d0ba57-f4a8-4fa2-bb05-82baf51d0957,broad.locker,premium,58.72,8.8,medium,low,5,namesilo,,,14/09/2026 03:17
+c9d0ba57-f4a8-4fa2-bb05-82baf51d0957,broad.locker,premium,58.72,8.8,medium,low,5,namesilo,,,19/09/2026 06:03
 6372316e-1427-4d81-87d7-a094ca9f33f2,notatall.locker,available,13.25,37.99,high,low,10,namesilo,,,
 5c1c466d-de0a-4c3d-921f-b79e1d0ff427,howto.locker,available,13.25,37.99,high,low,6,namesilo,,,
 431ccb86-7dd4-4060-81ce-a66bdcb73f2f,inviting.locker,available,13.25,37.99,high,low,8,namesilo,,,
@@ -895,13 +894,13 @@ e33e3874-7099-4712-aa37-66d63a39a3a4,aboveboard.locker,available,6.88,37.99,low,
 eaca453f-1a31-4999-bdcb-229c69ae8321,scatty.locker,available,6.88,37.99,low,low,6,namesilo,,,
 6d8eb6f9-96a2-47b2-86c4-33c00d40bef2,profound.locker,available,13.25,37.99,high,low,8,namesilo,,,
 614438fe-b01f-49e8-abf6-8fc4e1ea1340,paperback.locker,available,13.25,37.99,high,low,9,namesilo,,,
-699f4a8e-4684-49fb-8755-3726495a1fca,howwouldIknow.locker,available,13.25,37.99,medium,low,16,namesilo,,,
+699f4a8e-4684-49fb-8755-3726495a1fca,howwouldiknow.locker,available,13.25,37.99,medium,low,16,namesilo,,,
 c34d8c51-7e46-497a-97a8-150e3cb83702,crafty.locker,available,13.25,37.99,medium,low,6,namesilo,,,
 0d1a7a48-f0da-4c11-8abd-d632ce958b0f,fired.locker,available,19.99,,medium,low,5,name.com,,,
 19537fdf-1a71-4565-ab19-fa224d5a3109,anybudy.locker,available,13.25,37.99,medium,low,7,namesilo,,,
 e2671e5b-d2ef-4110-b405-7c43d63590e4,alarmed.locker,available,6.88,37.99,low,low,7,namesilo,,,
 b4ebb485-b137-436f-9160-eb4399de5595,standbehind.locker,available,13.25,37.99,low,low,12,namesilo,,,
-51d48134-1816-4f97-8d79-4c6e7ff8a76a,WorldWideWeb.locker,available,13.25,37.99,low,low,14,namesilo,,,
+51d48134-1816-4f97-8d79-4c6e7ff8a76a,worldwideweb.locker,available,13.25,37.99,low,low,14,namesilo,,,
 fd45de23-87c1-4e65-a60f-a3a57d7c78db,appetising.locker,available,6.88,37.99,low,low,10,namesilo,,,06/08/2026 06:50
 1f0ecfba-fb56-4d75-baec-337fc12762fc,heel.locker,available,13.25,37.99,medium,low,4,namesilo,,,
 6baec1a6-3f6e-4621-ab39-39a64a548d7b,tilted.locker,available,6.88,37.99,low,low,6,namesilo,,,07/08/2026 13:29
@@ -960,10 +959,10 @@ c4df3828-a311-4b68-88ec-9f09093257a7,childporn.locker,available,13.25,37.99,medi
 93821671-f03a-4167-bf4b-3d9f3f9ce825,amaurotic.locker,available,6.88,37.99,low,low,9,namesilo,,,
 5d85588e-224d-4cf1-9817-984ff93d3f06,tin.locker,premium,145.46,8.05,medium,low,3,namesilo,,,
 794312f8-ea99-48f2-8428-669925fd77fb,alleged.locker,available,13.25,37.99,high,low,7,namesilo,,,
-e9aabb3e-0d0e-49b8-b542-b91e4f98839a,WestBranch.locker,available,13.25,37.99,low,low,11,namesilo,,,
+e9aabb3e-0d0e-49b8-b542-b91e4f98839a,westbranch.locker,available,13.25,37.99,low,low,11,namesilo,,,
 ba21003a-61b9-49d3-a485-c667afc5c0da,oversight.locker,available,13.25,37.99,high,low,9,namesilo,,,
 512484e8-c9db-46d9-9c69-2c0971f92f21,billion.locker,available,13.25,37.99,high,low,7,namesilo,,,
-b9ba4687-281e-496a-8a1e-6d3fbe8f6cbc,Fran.locker,available,13.25,37.99,medium,low,4,namesilo,,,
+b9ba4687-281e-496a-8a1e-6d3fbe8f6cbc,fran.locker,available,13.25,37.99,medium,low,4,namesilo,,,
 0150feae-3ff6-4c36-a23a-46247b432e9e,safety.locker,premium,8583.6,8.8,medium,low,6,namesilo,,,08/09/2026 08:04
 b75b1e40-8e62-430d-b3b3-fe0ff4d468b0,description.locker,available,13.25,37.99,high,low,11,namesilo,,,
 a669d046-6625-4e90-a10a-6ebd8583d14d,beatified.locker,available,6.88,37.99,low,low,9,namesilo,,,09/08/2026 05:53
@@ -976,7 +975,7 @@ b551bc6b-c5ad-4f90-a8b9-078d59a19f09,tobeginwith.locker,available,13.25,37.99,lo
 ef1dc4db-9a0c-43c2-a3a5-8e5130ea78ba,unquestionably.locker,available,19.99,,medium,low,14,name.com,,,
 661151a0-f0b0-427f-8a03-f8ad77c37078,laziness.locker,available,13.25,37.99,medium,low,8,namesilo,,,
 4d5bc4d1-ec01-435e-b608-ed558e15e19a,harm.locker,available,6.88,37.99,medium,low,4,namesilo,,,08/09/2026 07:44
-ba562371-3104-405d-8c5a-8f20a7701730,Volvo.locker,available,13.25,37.99,high,low,5,namesilo,,,
+ba562371-3104-405d-8c5a-8f20a7701730,volvo.locker,available,13.25,37.99,high,low,5,namesilo,,,
 7d904048-ab27-41f6-884f-cd3e2f5a4fd4,accursed.locker,available,6.88,37.99,low,low,8,namesilo,,,
 28b45f48-cfb3-4e8e-8431-6fca3fb2cf5a,facetious.locker,available,6.88,37.99,low,low,9,namesilo,,,08/08/2026 14:39
 e91acb61-8a10-451e-b016-981dac39fa67,givesomeoneabreak.locker,available,13.25,37.99,high,low,20,namesilo,,,
@@ -987,7 +986,7 @@ e91acb61-8a10-451e-b016-981dac39fa67,givesomeoneabreak.locker,available,13.25,37
 88219783-41e9-4dfe-b3f5-d0375302f82c,xcii.locker,available,6.98,56.98,low,low,4,namecheap,,,
 6ce2a4fc-4d1e-4424-a708-bb5e975f319a,tile.locker,premium,53.63,8.05,high,low,4,namesilo,,,
 0f03b609-af63-4eee-9da5-2ef71d94113a,diversify.locker,available,13.25,37.99,high,low,9,namesilo,,,
-10cbe974-9b4b-4ad2-954e-9000065c0d35,object.locker,premium,58.72,8.8,medium,low,6,namesilo,,,15/09/2026 04:57
+10cbe974-9b4b-4ad2-954e-9000065c0d35,object.locker,premium,58.72,8.8,medium,low,6,namesilo,,,19/09/2026 05:21
 66efc47b-ae50-4d74-ab45-2b3a45d439e2,happyhour.locker,available,13.25,37.99,high,low,10,namesilo,,,
 88380fe0-c21d-49f8-96ad-259400e548d0,godking.locker,available,13.25,37.99,high,low,8,namesilo,,,
 afba50b3-9459-429a-9c09-aefc79880d1e,atop.locker,available,13.25,37.99,medium,low,4,namesilo,,,
@@ -999,3 +998,4 @@ f8d9005a-2780-425f-8714-69ff8138557b,adhominem.locker,available,6.88,37.99,low,l
 8de3df37-9795-4c08-a5c3-83258393f356,gotoilet.locker,available,13.25,37.99,medium,low,9,namesilo,,,
 8656fde5-4a97-4734-ba95-ed5f310ee5bc,modest.locker,available,13.25,37.99,high,low,6,namesilo,,,
 8ef2c18c-ad84-4b93-b00d-4998f39934f7,lookunderrocks.locker,available,13.25,37.99,medium,low,16,namesilo,,,
+83c63515-cd6d-4517-a079-f51624a22437,plastic.locker,premium,53.63,8.05,high,low,7,namesilo,,,
