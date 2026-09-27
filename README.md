@@ -1,10 +1,10 @@
-# Available .LOCKER One-Word Domains (23,229)
+# Available .LOCKER One-Word Domains (23,658)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C229%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C658%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .locker one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **23,229 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **23,658 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 23,229 domains · **Median ask:** $136.60 · **High-demand under $2,500:** 72
+**Public extract:** 1,000 rows · **Live catalog:** 23,658 domains · **Median ask:** $136.49 · **High-demand under $2,500:** 73
 
 **Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/locker`
@@ -75,15 +75,15 @@ print(df.head())
 | alar.locker | available | $6.88     | $37.99        | medium         | low    | 4      | namesilo  |
 | fly.locker  | premium   | $13,000   | $39           | high           | medium | 3      | namecheap |
 | anpu.locker | available | $6.88     | $37.99        | medium         | low    | 4      | namesilo  |
-| guy.locker  | premium   | $318.46   | $8.80         | high           | low    | 3      | namesilo  |
+| got.locker  | premium   | $1,654.52 | $8.80         | high           | low    | 3      | namesilo  |
 | axil.locker | available | $6.88     | $37.99        | high           | low    | 4      | namesilo  |
-| hie.locker  | premium   | $260      | $39           | medium         | low    | 3      | namecheap |
+| guy.locker  | premium   | $318.46   | $8.80         | high           | low    | 3      | namesilo  |
 | axis.locker | available | $13.25    | $37.99        | high           | medium | 4      | namesilo  |
-| ixl.locker  | premium   | $159.23   | $8.80         | medium         | low    | 3      | namesilo  |
+| hie.locker  | premium   | $260      | $39           | medium         | low    | 3      | namecheap |
 | baal.locker | available | $6.98     | $56.98        | high           | low    | 4      | namecheap |
-| lxv.locker  | premium   | $58.72    | $8.80         | medium         | low    | 3      | namesilo  |
+| ixl.locker  | premium   | $159.23   | $8.80         | medium         | low    | 3      | namesilo  |
 | baic.locker | available | $6.98     | $56.98        | medium         | low    | 4      | namecheap |
-| mum.locker  | premium   | $159.23   | $8.80         | high           | low    | 3      | namesilo  |
+| lxv.locker  | premium   | $58.72    | $8.80         | medium         | low    | 3      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 23,229 live domains                        |
+| 1,000-row public sample | 23,658 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 72 high-demand names under $2,500          |
+| Basic exported fields   | 73 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
