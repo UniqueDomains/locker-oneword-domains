@@ -2,11 +2,14 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 3140a9d1-4471-4a5b-93c4-386a22f729f1,bated.locker,available,6.88,37.99,medium,low,5,namesilo,,,09/08/2026 00:22
 b4ab0f0e-415a-4234-8ccb-90813ddba605,bicycle.locker,premium,318.46,8.8,high,low,7,namesilo,,,27/09/2026 03:10
 ce52e4be-c1bc-4370-ada3-a94f46522f23,panipat.locker,available,6.88,37.99,medium,low,7,namesilo,,,22/09/2026 15:36
+28873185-720f-41ea-a0a2-58d220eee02b,costa.locker,premium,220,32.32,high,medium,5,dynadot,,,28/09/2026 18:47
 4e2421a6-06bd-4f6d-b978-d670157d37ac,rwandan.locker,available,6.98,56.98,high,medium,7,namecheap,,,09/09/2026 19:10
 1d4fb21a-a506-46b8-8aea-7249ea3a8db6,idyl.locker,available,6.88,37.99,high,low,4,namesilo,,,08/09/2026 10:13
 3f176056-f55f-4518-b020-4b17307ef8bd,custom.locker,premium,3433.44,8.8,high,low,6,namesilo,,,28/09/2026 06:31
 109f7947-8808-408d-9081-dff711089ba5,sextuple.locker,available,6.88,37.99,medium,low,8,namesilo,,,10/09/2026 05:19
+8561846b-329d-4f95-a52c-bed274ba9da0,traces.locker,available,6.88,37.99,medium,low,6,namesilo,,,28/09/2026 08:47
 10328563-0052-43fb-8c5d-63de14f6d11e,offroader.locker,available,6.88,37.99,medium,low,10,namesilo,,,18/09/2026 09:00
+5ccf44e6-343d-471d-a5e5-d5aa5c79f2bf,priorities.locker,available,6.88,37.99,medium,low,10,namesilo,,,28/09/2026 17:39
 332ee0d6-4589-40e6-af0e-8c0f6fd50b0a,kinsey.locker,available,6.88,37.99,high,low,6,namesilo,,,18/09/2026 06:26
 01a8c0ce-6b52-409f-bd27-55a15233ce7a,redemption.locker,available,13.25,37.99,high,low,10,namesilo,,,
 0ff3ceb7-a2b0-44b8-979a-406359d1f9a1,powerfully.locker,available,6.98,56.98,high,low,10,namecheap,,,15/09/2026 21:10
@@ -18,11 +21,13 @@ c17b1560-3338-4426-a6f6-dc7562e9416e,lammas.locker,available,6.98,56.98,medium,l
 b5f6659d-7572-413a-8b37-f20b1d7245a2,baal.locker,available,6.98,56.98,high,low,4,namecheap,,,21/09/2026 12:05
 db11081d-bf85-4ba5-9e0d-0020d55fbcc8,patristic.locker,available,6.88,37.99,medium,low,9,namesilo,,,08/09/2026 10:38
 b5513fad-dffe-406e-95dd-8b77efb3d48c,atoll.locker,available,6.88,37.99,high,low,5,namesilo,,,20/09/2026 21:52
+d01ebed8-d0b3-495e-8602-63f2e0c4af08,deborah.locker,available,6.88,37.99,medium,low,7,namesilo,,,28/09/2026 12:59
 dc023805-d5cf-4ba7-8618-3f562339f159,sprinkle.locker,available,6.98,56.98,high,low,8,namecheap,,,15/09/2026 20:15
 c4678330-ac16-4c37-ad1d-0ada888aae1a,fond.locker,available,6.98,56.98,high,low,4,namecheap,,,21/09/2026 21:45
 072514c4-0cf3-4713-94ec-11f814ae4bee,tactual.locker,available,6.88,37.99,medium,low,7,namesilo,,,21/08/2026 00:04
 ad4471d3-f53d-48f4-ae55-90579639cecb,lewd.locker,available,6.98,56.98,high,low,4,namecheap,,,22/08/2026 20:07
 0cd426b1-3cce-4dba-b8af-eb15b731b148,foiled.locker,available,6.88,37.99,medium,low,6,namesilo,,,14/08/2026 09:27
+81ada6b8-8f1b-4913-9d37-c14bee272f14,demetrius.locker,available,6.98,56.98,medium,low,9,namecheap,,,29/09/2026 00:39
 b2dabc25-58fb-49df-b65e-1937519123de,roses.locker,premium,650,39,high,low,5,namecheap,,,17/09/2026 21:17
 5ae9a3fb-b1e3-4373-978f-e59596c49689,attache.locker,available,6.98,56.98,high,low,7,namecheap,,,21/09/2026 01:04
 0005712f-113f-429c-ad8d-1c8e116517bc,included.locker,available,6.88,37.99,high,low,8,namesilo,,,22/08/2026 01:33
@@ -32,12 +37,13 @@ e939a9bd-c33e-4249-9d5a-7108b88674a4,cuts.locker,available,6.98,56.98,high,low,4
 e2b2f4e3-ea97-4487-8f2c-c69c7cd61910,recessions.locker,available,6.88,37.99,low,low,10,namesilo,,,21/09/2026 06:29
 e25684bf-37e7-4c71-9f52-989982903f14,hallway.locker,premium,5175.2,31.25,high,low,7,spaceship,,,28/09/2026 05:56
 1f517311-ee99-4a4d-83e0-a322778303a6,unhurried.locker,available,6.88,37.99,medium,low,9,namesilo,,,12/09/2026 12:39
+8d8f6590-96c1-4db7-977d-a588594435b2,ismail.locker,available,5.68,31.25,medium,low,6,spaceship,,,28/09/2026 11:55
 7a2fbefe-cce9-4007-9739-5370c84cb740,unwanted.locker,available,6.88,37.99,high,low,8,namesilo,,,12/09/2026 07:48
 5f112eac-1d6c-4682-a808-d2fb56a01145,accountant.locker,premium,260,39,high,low,10,namecheap,,,16/09/2026 23:11
-d2550d80-001b-430a-a900-0de1cb30637f,barbecue.locker,available,13.25,37.99,high,low,8,namesilo,,,
+d2550d80-001b-430a-a900-0de1cb30637f,barbecue.locker,available,5.68,31.25,high,low,8,spaceship,,,29/09/2026 01:06
 c9d9fb89-552b-43c7-8eda-32c0173b3577,forbidden.locker,available,6.88,37.99,medium,low,9,namesilo,,,18/08/2026 10:59
 d3ec9d69-5ea6-459f-8728-ed62541af2bf,casey.locker,available,6.98,56.98,high,low,5,namecheap,,,25/09/2026 18:12
-d9b79478-d82b-457a-b028-118a30d5f676,attend.locker,available,13.25,37.99,high,low,6,namesilo,,,
+d9b79478-d82b-457a-b028-118a30d5f676,attend.locker,available,5.68,31.25,high,low,6,spaceship,,,28/09/2026 19:00
 9b3ed702-0f47-45c5-9790-bd4e3b0e949c,allomorph.locker,available,6.88,37.99,medium,low,9,namesilo,,,18/09/2026 11:59
 aa0e723d-3862-4ee6-aa80-b4e905b80c6d,carambola.locker,available,6.88,37.99,medium,low,9,namesilo,,,21/09/2026 09:14
 d8b92b02-bb28-44a2-8f8e-966ed764295f,whacking.locker,available,6.88,37.99,medium,low,8,namesilo,,,13/09/2026 11:09
@@ -50,6 +56,7 @@ e6a8bbe0-f39e-4816-a145-9d74d11b7819,alizarine.locker,available,6.88,37.99,mediu
 01fbacd7-fc40-49a7-92af-8676f8ab30b2,axil.locker,available,6.88,37.99,high,low,4,namesilo,,,21/09/2026 10:22
 9415fd26-4122-441f-8015-0ebfe7102f4b,healthily.locker,available,6.88,37.99,medium,low,9,namesilo,,,14/09/2026 23:15
 80a1db74-c633-48c2-9353-1ddf83a79ae2,tenanted.locker,available,6.88,37.99,medium,low,8,namesilo,,,11/09/2026 11:09
+520ee11f-0de8-4340-ab5f-e3dda1f0f927,congratulate.locker,available,6.88,37.99,high,low,12,namesilo,,,29/09/2026 03:02
 0fa6dbd8-cf58-4d0a-ba13-ce02f5e79ac8,crook.locker,available,6.88,37.99,medium,low,5,namesilo,,,13/08/2026 06:27
 207e10f7-e34e-48e3-84b7-1b44d903290f,published.locker,available,6.88,37.99,high,low,9,namesilo,,,27/09/2026 07:35
 f01fead8-5968-43fd-8033-b3092a74d94a,tubes.locker,available,6.98,56.98,medium,low,5,namecheap,,,20/09/2026 00:50
@@ -71,7 +78,7 @@ be113dc8-1ac9-4dbd-97b5-089916807355,through.locker,available,6.98,56.98,high,lo
 1f123a6e-b806-4b59-ad7e-77afc0e33127,distressed.locker,available,6.88,37.99,medium,low,10,namesilo,,,14/08/2026 12:16
 e57bc15c-0596-4d5f-b74e-4f1f12ddd75d,vibrate.locker,available,13.25,37.99,high,low,7,namesilo,,,
 6963b3cd-44ee-4364-b884-641fbe57432f,antsy.locker,available,6.88,37.99,medium,low,5,namesilo,,,05/08/2026 20:27
-4d1b58a6-b049-4768-8191-f31630e74461,bowls.locker,available,19.99,,high,low,5,name.com,,,
+4d1b58a6-b049-4768-8191-f31630e74461,bowls.locker,available,5.68,31.25,high,low,5,spaceship,,,29/09/2026 03:46
 1975630d-5b92-450c-afbe-34b25a964d8b,giovanni.locker,available,6.88,37.99,high,low,8,namesilo,,,25/09/2026 14:42
 e2f62d2c-e0d2-4bd1-8003-f89b3765237b,rale.locker,available,6.88,37.99,high,medium,4,namesilo,,,09/09/2026 10:37
 5ef89480-1a30-4515-a911-f85aa4760c45,aegir.locker,available,6.88,37.99,medium,low,5,namesilo,,,14/08/2026 22:18
@@ -84,6 +91,7 @@ c3ffb440-9db4-40a7-9a23-2616c1797461,string.locker,available,6.88,37.99,high,low
 37361ab2-7e3e-4528-a93f-3a71b09b42ca,characteristic.locker,available,19.99,,high,low,14,name.com,,,
 b42b414c-8d97-45f6-a276-b1b85db5313c,tax.locker,premium,5175.2,31.25,high,medium,3,spaceship,,,28/09/2026 05:46
 0395214c-f5b6-447a-bc57-b8dc27b4d294,perceptive.locker,available,6.88,37.99,high,low,10,namesilo,,,08/09/2026 16:12
+f02edf8a-0d21-41bb-92c9-0635a659e5c4,fairmont.locker,available,5.68,31.25,high,medium,8,spaceship,,,29/09/2026 04:01
 4ab123c8-b246-4079-84d2-2a47dbe2765b,invited.locker,available,6.88,37.99,high,low,7,namesilo,,,25/09/2026 11:51
 93c71f00-f9a1-40e9-a264-d52eedb0e18c,ardor.locker,available,6.98,56.98,high,low,5,namecheap,,,20/09/2026 03:15
 2a056975-a59f-42a6-840e-09b335d2d56b,auspices.locker,available,6.88,37.99,high,low,8,namesilo,,,17/09/2026 12:16
@@ -141,14 +149,18 @@ d0de493c-25e6-42cf-83d9-b795f96c15e8,endermatic.locker,available,6.88,37.99,medi
 cae7e220-f3a7-42c9-ae7c-765245388ca6,entree.locker,available,6.88,37.99,high,low,6,namesilo,,,16/09/2026 22:08
 c03a08a7-cae1-4e29-be7f-0f6f2d974b58,avo.locker,available,6.98,56.98,high,low,3,namecheap,,,21/09/2026 09:36
 3c9c8dda-f145-4450-88b5-fea1f83b9496,susurrous.locker,available,6.88,37.99,medium,low,9,namesilo,,,03/09/2026 11:24
+efcc00ea-8560-4325-8acc-8d98ba8d1aa9,racket.locker,available,5.68,31.25,medium,low,6,spaceship,,,28/09/2026 14:13
 b1ee1fc5-1ee0-4e01-9667-9fd814cfb748,alhazen.locker,available,6.88,37.99,medium,low,7,namesilo,,,18/09/2026 00:42
 d2906847-a349-4dae-acfa-583a36b2f695,bankhead.locker,available,6.98,56.98,medium,low,8,namecheap,,,22/09/2026 02:47
 e29e1e33-357c-482a-8bec-1108bb63431a,very.locker,available,6.88,37.99,high,low,4,namesilo,,,27/09/2026 09:52
 0571802f-bf7c-44f2-9e54-27b3c348c046,grime.locker,available,6.88,37.99,medium,low,5,namesilo,,,14/08/2026 09:15
+1f219e53-f79b-43ca-8452-85091108942a,belts.locker,available,6.88,37.99,medium,low,5,namesilo,,,28/09/2026 09:04
 fd0f9fec-4dc5-420e-82b0-1a37004a3618,adequacy.locker,available,6.98,56.98,high,low,8,namecheap,,,17/09/2026 07:43
+9d26447b-81e5-4442-8a33-9903ec3ddc26,boland.locker,available,6.98,56.98,medium,low,6,namecheap,,,29/09/2026 04:35
 c9a74ab9-1e8e-4ede-9540-55440c1ddc5d,arethusa.locker,available,6.88,37.99,medium,low,8,namesilo,,,20/09/2026 04:04
 164b036f-8e07-442b-8e05-b38f24be7b3b,critter.locker,available,6.98,56.98,high,low,7,namecheap,,,24/09/2026 19:33
 11fd5000-ee76-4e17-b6ce-0c761a5d550b,feeble.locker,available,9.99,59.99,medium,low,6,name.com,,,13/08/2026 20:30
+4c25e0f6-82d9-43c6-be3f-717f5c508dc9,xiao.locker,available,6.88,37.99,medium,low,4,namesilo,,,28/09/2026 16:02
 08ffb8eb-845d-4930-b82d-88064f28c8f9,voracious.locker,available,6.88,37.99,medium,low,9,namesilo,,,15/08/2026 06:15
 dfa1967c-d68a-449e-a8ff-663446b18929,regally.locker,available,6.88,37.99,medium,low,7,namesilo,,,15/09/2026 22:55
 a78424c4-7c94-47db-a971-9777cdd957a7,repeat.locker,available,6.88,37.99,high,low,6,namesilo,,,24/09/2026 12:27
@@ -175,6 +187,7 @@ b9994214-b0a0-4a55-9544-8b5e90b552dc,pertinence.locker,available,6.88,37.99,medi
 dc19737b-dc5f-4403-a957-b4f7b88458e5,wood.locker,premium,318.46,8.8,high,medium,4,namesilo,,,25/09/2026 05:31
 f531e74a-40ba-4986-85dd-f07c0a0510d6,wrong.locker,available,6.88,37.99,high,low,5,namesilo,,,25/09/2026 07:41
 b592403e-4dd9-4e94-b576-6f0a93aa01ca,inky.locker,available,6.88,37.99,medium,low,4,namesilo,,,22/08/2026 05:42
+9ca8ae4c-35c6-4cd3-88cd-323db3739493,spies.locker,available,32.32,32.32,medium,low,5,dynadot,,,28/09/2026 12:49
 cdcc65e5-9baa-4d00-9be5-1c9a840541e0,nonu.locker,available,6.88,37.99,medium,low,5,namesilo,,,03/09/2026 18:37
 f7800231-7aa3-4c67-a65d-5b0bb0ae17dd,conceit.locker,available,6.88,37.99,medium,low,7,namesilo,,,18/09/2026 22:51
 2e7071e6-8345-4e68-90eb-1fd9b48b07e5,abrachia.locker,available,6.88,37.99,medium,low,8,namesilo,,,16/09/2026 16:47
@@ -184,9 +197,10 @@ d13739bf-d517-4cd4-9b0f-c808b4b6011d,participants.locker,available,6.88,37.99,me
 c8a03f6c-1433-49b6-bb45-95f7961df4a3,fcc.locker,available,6.88,37.99,high,low,3,namesilo,,,25/09/2026 05:53
 211f9e6e-6f88-4af4-aca2-63e36885d1ea,volition.locker,available,6.88,37.99,high,low,8,namesilo,,,13/09/2026 12:00
 41bf957d-4fdf-4630-ba7f-d592ca689cf8,rustless.locker,available,6.98,56.98,medium,low,8,namecheap,,,09/09/2026 20:19
-228beb7e-8cd4-4dc9-80f5-71e4c2dbf7c7,bakery.locker,premium,159.23,8.8,high,low,6,namesilo,,,25/09/2026 04:12
+228beb7e-8cd4-4dc9-80f5-71e4c2dbf7c7,bakery.locker,premium,159.23,8.8,high,low,6,namesilo,,,28/09/2026 12:14
 8ba478dc-03ea-4cb9-add7-4650e0a48fe0,chubby.locker,available,6.88,37.99,high,low,6,namesilo,,,12/08/2026 07:31
 8f6d2c76-ee0a-41d5-bebd-6e29262c60e2,ernesto.locker,available,6.88,37.99,medium,low,7,namesilo,,,28/09/2026 07:52
+5d78cc98-abd6-46c6-9307-a0c3e729c1ec,corsica.locker,available,6.98,56.98,medium,low,7,namecheap,,,28/09/2026 13:46
 61ab78ca-3a84-4c87-90b0-2861c00b0114,geared.locker,available,6.98,56.98,high,low,6,namecheap,,,18/08/2026 20:59
 12292075-2353-41b7-8632-a50501c53e99,abiding.locker,available,6.88,37.99,high,low,7,namesilo,,,21/09/2026 13:52
 aa4aaede-9a83-4c08-81c5-1767e82219db,pepper.locker,available,6.88,37.99,high,low,6,namesilo,,,24/09/2026 01:22
@@ -197,7 +211,7 @@ aa4aaede-9a83-4c08-81c5-1767e82219db,pepper.locker,available,6.88,37.99,high,low
 8c05ab8c-b24c-4657-bc28-0f6ab41d2af0,tour.locker,premium,1250,37.5,high,low,4,name.com,,,24/09/2026 22:26
 d8e129c1-6b76-4cbc-aa65-a33f5261e695,met.locker,premium,517.7,31.25,high,low,3,spaceship,,,27/09/2026 17:23
 70815bca-607d-401b-9f4a-66203d7983b2,sprayer.locker,available,6.88,37.99,high,low,7,namesilo,,,21/09/2026 00:21
-fc2115b8-5156-4a1b-8be6-ce001d1a929a,tie.locker,premium,145.46,8.05,high,low,3,namesilo,,,
+fc2115b8-5156-4a1b-8be6-ce001d1a929a,tie.locker,premium,517.7,31.25,high,low,3,spaceship,,,28/09/2026 19:19
 91a93443-1378-4de0-8e23-cd4b73046ac8,philippi.locker,available,6.98,56.98,medium,low,8,namecheap,,,22/09/2026 15:38
 4b7aad71-a93a-42f2-bc30-6e04877fa634,hoarse.locker,available,6.88,37.99,medium,low,6,namesilo,,,21/08/2026 10:10
 a6e4162b-eb86-455f-a5fb-c15d0e292956,erosive.locker,available,6.88,37.99,medium,low,7,namesilo,,,13/08/2026 02:09
@@ -209,7 +223,7 @@ bb313417-1faf-4636-b1f7-14585500d339,followed.locker,available,6.88,37.99,medium
 cb24ede9-2ba3-4519-a6ca-21635f4fe49f,heuristic.locker,available,6.88,37.99,high,low,9,namesilo,,,21/08/2026 07:34
 adeb2c38-932f-46d6-a130-c28ad6de96d1,disabling.locker,available,6.88,37.99,medium,low,9,namesilo,,,13/08/2026 07:09
 d376d286-f6c2-461d-9d56-6416aa660c7c,unpowered.locker,available,6.88,37.99,medium,low,9,namesilo,,,12/09/2026 17:18
-e0e661c4-e7ed-49b2-9743-6fe5ab29ab42,informally.locker,available,13.25,37.99,medium,low,10,namesilo,,,
+e0e661c4-e7ed-49b2-9743-6fe5ab29ab42,informally.locker,available,5.68,31.25,medium,low,10,spaceship,,,28/09/2026 14:09
 ec05315f-cff3-4dda-a583-9cf574f01c4a,bronx.locker,available,6.88,37.99,high,low,5,namesilo,,,24/09/2026 10:43
 2059babb-2763-482b-97a7-180a9dbbdf3c,taller.locker,available,6.88,37.99,medium,low,6,namesilo,,,19/09/2026 00:16
 fe80754a-5ea3-4085-be10-6fac7c3c8700,trust.locker,premium,1654.52,8.8,high,medium,5,namesilo,,,25/09/2026 04:00
@@ -239,7 +253,7 @@ a6ab2458-eaeb-49fb-892b-6a799dd1cfac,mansion.locker,available,5.68,31.25,high,lo
 4b28fa17-bd98-48c7-89e6-8d659acf1c50,revolution.locker,available,19.99,,high,low,10,name.com,,,
 0af75b90-1f8e-468a-83e3-d78635f00869,electronic.locker,premium,318.46,8.8,high,low,10,namesilo,,,19/09/2026 14:31
 3d85b087-190e-45ae-a472-cdc2cf0d56dd,signature.locker,premium,159.23,8.8,high,medium,9,namesilo,,,25/09/2026 08:11
-f4d152a6-3645-49ed-a971-8495bbbc08d4,perfectly.locker,available,13.25,37.99,high,low,9,namesilo,,,
+f4d152a6-3645-49ed-a971-8495bbbc08d4,perfectly.locker,available,5.66,31.41,high,low,9,porkbun,,,28/09/2026 11:37
 eb3067c8-b297-4de7-99ba-27fda47f042c,worked.locker,available,13.25,37.99,high,low,6,namesilo,,,
 def60394-6dfa-4857-883f-2ab9a32fb305,fortemente.locker,available,6.88,37.99,medium,low,10,namesilo,,,18/08/2026 12:36
 4c00f0a7-b06d-4129-b519-a254ff2baa01,gilding.locker,available,6.88,37.99,high,low,7,namesilo,,,18/08/2026 23:37
@@ -247,11 +261,12 @@ f8ca1af7-2662-4348-bdc9-92f73178e14a,cheque.locker,available,6.88,37.99,high,low
 8b3f6e68-9f84-451d-b056-f1b68b27acbd,energizer.locker,available,6.88,37.99,high,low,9,namesilo,,,19/09/2026 09:06
 99de9d7e-7567-4b4a-aba2-d564d5f75dca,waning.locker,available,6.88,37.99,medium,low,6,namesilo,,,13/09/2026 08:04
 39b7bd69-d360-46a8-9193-4cbc943df4ab,delphian.locker,available,6.88,37.99,medium,low,8,namesilo,,,14/08/2026 00:48
-1601ec17-4262-4074-996f-c47d5c096f2f,hamilton.locker,available,13.25,37.99,high,medium,8,namesilo,,,
+1601ec17-4262-4074-996f-c47d5c096f2f,hamilton.locker,available,5.68,31.25,high,medium,8,spaceship,,,28/09/2026 20:18
 58b2145e-04b0-4732-911f-1b9118c1f66e,minty.locker,available,6.88,37.99,high,low,5,namesilo,,,25/08/2026 00:53
 a9778a32-3b3c-4b7a-b917-b00b59f84bbf,antiphon.locker,available,6.88,37.99,medium,low,8,namesilo,,,19/09/2026 14:56
 e994688e-b0ec-4094-be13-3561d26dc2b5,braille.locker,available,6.88,37.99,high,low,7,namesilo,,,24/09/2026 08:01
 7dc2fd0d-f630-467e-85f0-55722e4e5a27,poetically.locker,available,6.98,56.98,medium,low,10,namecheap,,,15/09/2026 20:51
+ecc48dbb-d17f-4599-877d-ad15c65b16b5,preparation.locker,available,6.88,37.99,high,low,11,namesilo,,,28/09/2026 12:30
 553e1bdd-b3ca-440d-b378-2f411b71033d,cliff.locker,available,6.88,37.99,high,low,5,namesilo,,,24/09/2026 15:37
 20d010c2-ee3a-4e32-bec7-87f5e2a3ec49,sunless.locker,available,6.88,37.99,medium,low,7,namesilo,,,12/08/2026 12:31
 7e1eccb7-76e3-40d6-ad44-c7fa0fad620b,inevitable.locker,available,6.88,37.99,high,low,10,namesilo,,,25/09/2026 09:24
@@ -269,9 +284,10 @@ b4a8b97f-bbc1-46de-8372-90ea80ecb99e,fresnel.locker,available,6.88,37.99,high,lo
 daff4843-eee8-41b0-badc-0dcf2744e14a,math.locker,premium,42,42,high,medium,4,namecheap,,,
 43cdd289-ecd5-4428-b696-155121024480,salacious.locker,available,6.88,37.99,medium,low,9,namesilo,,,23/08/2026 00:40
 e9dbf5da-1841-484f-aa69-95704dcdf6fc,starts.locker,premium,290.91,8.05,medium,low,6,namesilo,,,
+113d82b9-4397-4559-bcca-fee1f9100c59,bites.locker,available,6.88,37.99,medium,low,5,namesilo,,,28/09/2026 13:24
 bfe10196-9cac-41bf-92e7-86ad84a5ca85,smoothly.locker,available,6.88,37.99,high,low,8,namesilo,,,16/09/2026 02:56
 b4673be1-dc83-4b6e-8028-a6afacf580c2,unblessed.locker,available,6.88,37.99,medium,low,9,namesilo,,,12/09/2026 02:14
-2165aff3-3631-477c-b3b3-f8a05697eb9d,monitor.locker,premium,290.91,8.05,high,low,7,namesilo,,,
+2165aff3-3631-477c-b3b3-f8a05697eb9d,monitor.locker,premium,1035.2,31.25,high,low,7,spaceship,,,28/09/2026 18:50
 9e4df1c6-568f-400d-9a46-0aaa06393f54,triploid.locker,available,6.98,56.98,medium,low,8,namecheap,,,11/09/2026 20:10
 de90661c-7e4d-434a-affc-34e2b69535fd,syrian.locker,available,6.88,37.99,high,low,6,namesilo,,,11/09/2026 06:43
 49a01be8-9b74-4c08-bc47-bf892ecfcbd3,billabong.locker,available,6.88,37.99,high,medium,9,namesilo,,,23/09/2026 16:06
@@ -280,7 +296,9 @@ bfdb2fc1-d26b-4585-8e57-5167552830b5,testate.locker,available,6.88,37.99,medium,
 6f4fecc1-358e-4eef-8e87-abf3d16bfb1e,separable.locker,available,6.88,37.99,medium,low,9,namesilo,,,14/08/2026 12:50
 83083113-e23d-4934-8eaf-ebf2f3d71b47,fly.locker,premium,13000,39,high,medium,3,namecheap,,,24/09/2026 20:39
 532cda3c-260f-4a57-bdb7-3cc86e0e2d1f,markoff.locker,available,6.88,37.99,medium,low,7,namesilo,,,19/09/2026 04:18
+8292eb82-2759-402e-871d-d32dbaf3b284,joplin.locker,available,5.68,31.25,medium,low,6,spaceship,,,28/09/2026 19:32
 a58ba32e-5dd3-4951-a325-b16e391ece05,ixl.locker,premium,159.23,8.8,medium,low,3,namesilo,,,
+8130aebe-03f5-49dc-9118-2df78bdaa961,losses.locker,premium,1035.2,31.25,medium,low,6,spaceship,,,28/09/2026 10:16
 36d02c32-2a24-4bd1-8144-ad179efc1202,riddle.locker,available,6.98,56.98,high,low,6,namecheap,,,24/09/2026 08:02
 0318dad0-f100-4ed1-bf97-dd140178aca0,drop.locker,premium,159.23,8.8,high,medium,4,namesilo,,,24/09/2026 05:11
 2f338556-a3bb-4649-a4f8-8c07a0b24619,croat.locker,available,6.88,37.99,medium,low,5,namesilo,,,13/08/2026 07:34
@@ -301,6 +319,7 @@ e412a483-adbf-4cf9-8311-305856fdf89a,film.locker,premium,1300,39,high,low,4,name
 28fbfc05-6b50-435c-9276-1c362001621e,dodge.locker,available,5.68,31.25,high,low,5,spaceship,,,28/09/2026 01:47
 7f17b969-2cab-48f9-82ef-fe676162cd10,kissed.locker,available,6.88,37.99,medium,low,6,namesilo,,,28/09/2026 04:54
 bb90e014-4e74-4f71-b478-bc14c36f5867,needy.locker,available,6.88,37.99,medium,low,5,namesilo,,,24/09/2026 06:57
+a1e597cf-cace-442e-ba84-2589cbbc050d,materials.locker,premium,159.23,8.8,medium,low,9,namesilo,,,28/09/2026 12:42
 069f2a91-540d-45e3-84e7-9a6bc7c60c8a,collapse.locker,available,6.88,37.99,high,low,8,namesilo,,,27/09/2026 12:20
 39808f06-824b-4b2c-8f79-c5f34375c219,sectioned.locker,available,6.88,37.99,medium,low,9,namesilo,,,10/09/2026 01:20
 1486b770-8369-4c52-a943-8c21b51a2bf8,chartreuse.locker,available,6.88,37.99,medium,low,10,namesilo,,,12/08/2026 02:57
@@ -321,6 +340,7 @@ a8e559fc-7028-4972-8023-163f7631c9ce,vendible.locker,available,6.88,37.99,medium
 ab5c08bd-0870-43bc-ba38-2b47ddcbc0fd,aligning.locker,available,6.88,37.99,medium,low,8,namesilo,,,
 f8cd9f90-d979-4813-a92b-93bd52f87b4d,fictive.locker,available,6.88,37.99,medium,low,7,namesilo,,,07/08/2026 07:55
 461bbd39-9a72-4394-a7e7-1729420bb272,nuclei.locker,available,12.98,56.98,medium,low,6,namecheap,,,
+0e1cec43-ee3f-4f33-a0db-ffef08d0aa6f,politician.locker,available,6.88,37.99,high,low,10,namesilo,,,28/09/2026 10:44
 905d1c6a-d42c-4c11-9351-db63c7d91895,grower.locker,available,59.99,59.99,high,low,6,name.com,,,17/09/2026 19:21
 bd22fbf5-d1cf-4a42-bea2-24d0ae959db3,daring.locker,available,6.88,37.99,high,low,6,namesilo,,,07/08/2026 21:39
 1a9d2e20-317a-4b13-a2ca-3cdca172bf4f,besotted.locker,available,6.88,37.99,medium,low,8,namesilo,,,09/08/2026 15:27
@@ -332,7 +352,9 @@ dd9d5d39-1c33-4df9-ba13-b794778c8c63,apophthegm.locker,available,6.88,37.99,medi
 8273e29b-e016-4fae-ac55-e9880a245aec,helen.locker,available,6.88,37.99,high,low,5,namesilo,,,25/09/2026 07:10
 3c14060f-8cdc-45b7-b93c-57121056baca,fictional.locker,available,6.98,56.98,high,low,9,namecheap,,,17/08/2026 20:18
 a606ab0d-28ed-41d1-aec8-afbb11a3e440,slipping.locker,available,6.88,37.99,medium,low,8,namesilo,,,10/09/2026 11:05
+e3d12f52-a79f-4290-ad4a-297de32c3eea,handicapped.locker,available,6.98,56.98,medium,low,11,namecheap,,,29/09/2026 03:14
 0645736e-b5ad-4060-88e5-0fa8ace9e0c5,leaning.locker,available,6.88,37.99,high,low,7,namesilo,,,07/08/2026 13:24
+ba77f3db-92d6-4eca-b26b-acab35b80530,bia.locker,available,5.68,31.25,medium,low,3,spaceship,,,28/09/2026 21:49
 d408093e-113e-4da4-b9da-dc40d0d67bcd,twofold.locker,available,6.88,37.99,medium,low,7,namesilo,,,14/08/2026 16:39
 851da86e-af67-44ad-849d-2c7719a96505,aerophagia.locker,available,6.88,37.99,medium,low,10,namesilo,,,17/09/2026 13:11
 5de9f556-a3aa-410c-8890-bfc9fe2b3d21,origin.locker,premium,159.23,8.8,high,low,6,namesilo,,,08/09/2026 13:23
@@ -374,10 +396,11 @@ f60f4a6f-73ee-4d7f-9b9b-11a1176c253b,navarro.locker,available,5.68,31.25,medium,
 6fdf833d-a0dd-4434-bd9c-c7c3d6bc6f90,weapons.locker,premium,1654.52,8.8,medium,low,7,namesilo,,,25/09/2026 17:10
 47ad9fa1-b270-4ea9-9551-e8a97085fbcd,warmly.locker,available,6.88,37.99,high,low,6,namesilo,,,13/09/2026 08:17
 003e84be-9b33-4af1-a928-44a3a00177ac,bowhead.locker,available,6.98,56.98,medium,low,7,namecheap,,,21/09/2026 20:32
+6ed63409-2ec2-467d-92bf-6677759c6733,boiler.locker,available,5.68,31.25,high,low,6,spaceship,,,28/09/2026 13:34
 0ca5fbb9-3192-48c6-8009-a22523f40bbf,balanus.locker,available,6.98,56.98,medium,low,7,namecheap,,,21/09/2026 21:03
 6f0ba5fe-9a4b-4e77-ac13-d93fdabfcacc,telescoped.locker,available,6.88,37.99,medium,low,10,namesilo,,,11/09/2026 10:22
 3675cffd-0ba0-4b17-80fe-f9931b0e03c2,prudently.locker,available,6.88,37.99,medium,low,9,namesilo,,,15/09/2026 21:50
-20a5caee-1b06-4c11-83de-35998fe83ac6,clearly.locker,available,13.25,37.99,high,low,7,namesilo,,,
+20a5caee-1b06-4c11-83de-35998fe83ac6,clearly.locker,available,5.66,31.41,high,low,7,porkbun,,,28/09/2026 13:55
 186948a5-ea31-4c0d-839e-20e09ecbf45a,tolerate.locker,available,6.88,37.99,high,low,8,namesilo,,,24/09/2026 10:45
 055ab7bb-609a-41da-bb67-bb9c4629aef5,uric.locker,available,6.88,37.99,medium,low,4,namesilo,,,12/09/2026 23:37
 269faf52-429d-4bfa-9a24-09a001ee5360,squared.locker,available,6.88,37.99,high,low,7,namesilo,,,10/09/2026 17:27
@@ -390,7 +413,9 @@ a366cf66-0267-4b8c-a2fa-650a048d6066,underwater.locker,premium,650,39,medium,low
 ae8d28a6-d408-46a6-84e5-a4e6c711d4d3,cattleman.locker,available,6.88,37.99,high,low,9,namesilo,,,23/09/2026 00:40
 c4dfb45a-7bbc-4fdc-98ea-c0b4ab4f933a,splay.locker,available,6.88,37.99,medium,low,5,namesilo,,,10/09/2026 16:06
 7866d478-a412-4db4-be2f-0166bb176fe3,reformed.locker,available,6.88,37.99,high,low,9,namesilo,,,09/09/2026 10:53
+9f83ece1-9f6f-4e57-9f7a-7b2df39e5523,minority.locker,available,32.32,32.32,high,low,8,dynadot,,,28/09/2026 14:53
 9894b91e-baf3-41f7-ae38-bff8eff18504,prolate.locker,available,6.98,56.98,medium,low,7,namecheap,,,15/08/2026 18:52
+a9b7b0b2-a363-4948-8f9c-11e23d07ff48,hottest.locker,available,6.88,37.99,medium,low,7,namesilo,,,28/09/2026 13:20
 1db39cf5-aa18-4ae2-b9b4-61c9c387b23d,seedy.locker,available,6.88,37.99,medium,low,5,namesilo,,,
 a81d916b-2705-4234-97d4-af242b322ad2,shell.locker,available,,,high,medium,5,,,,
 f6f539e9-3a76-4652-9e46-5c6d5c274f94,conversely.locker,available,6.88,37.99,medium,low,10,namesilo,,,14/09/2026 08:37
@@ -408,9 +433,11 @@ eb12eb61-77a5-49ab-b03e-ba814b4001fe,referent.locker,available,6.88,37.99,high,m
 02cddcd0-1e08-4821-a97f-14b45e765412,advertence.locker,available,6.88,37.99,medium,low,10,namesilo,,,17/09/2026 11:06
 e5a66d56-f33e-4755-a830-685fe867c3a0,sending.locker,available,6.88,37.99,high,low,7,namesilo,,,25/09/2026 10:37
 1ce6a6cb-8a5c-406a-bfb6-d84edba7ac4d,irons.locker,available,13.25,37.99,medium,low,5,namesilo,,,
+b9957e96-43db-4fee-92bb-c6c9066f2aaf,waving.locker,available,5.66,31.41,high,low,6,porkbun,,,28/09/2026 15:32
 027a4c1b-d441-424d-8ce6-74a697c6bc25,oviparous.locker,available,6.88,37.99,medium,low,9,namesilo,,,04/09/2026 22:09
 0cae27a9-2374-4371-b7f0-65bf99f100cb,buttery.locker,available,6.98,56.98,medium,low,7,namecheap,,,19/09/2026 18:30
 5650484b-19c6-41fe-bea0-7a003aef63b1,attar.locker,available,6.98,56.98,medium,low,5,namecheap,,,20/09/2026 19:21
+2c691c1b-1bd9-40ea-8196-21dd798df3e9,schuylkill.locker,available,6.88,37.99,medium,low,10,namesilo,,,28/09/2026 16:50
 47ccf295-2659-4cfe-9742-b138e966911e,affined.locker,available,6.88,37.99,medium,low,7,namesilo,,,
 877ae54b-6f24-4029-a3fc-93bfca1c12ba,highborn.locker,available,6.88,37.99,medium,low,8,namesilo,,,13/08/2026 01:48
 452f3ec0-7692-44df-88e0-27bce3ae4242,greet.locker,available,13.25,37.99,high,low,5,namesilo,,,
@@ -423,12 +450,14 @@ e0c93d58-2ebb-410e-90e1-6a1ef0537ddf,asala.locker,available,59.99,59.99,medium,l
 fda28a61-4170-4eb8-bf2f-53acf20927e8,dreaded.locker,available,6.88,37.99,medium,low,7,namesilo,,,14/08/2026 08:53
 2ee528a3-301c-4dc6-aa79-b337c696920c,chill.locker,premium,318.46,8.8,high,low,5,namesilo,,,23/09/2026 23:04
 5d234598-b7f9-45e1-b96f-bf63cebe6fe0,arulo.locker,available,6.88,37.99,medium,low,5,namesilo,,,20/09/2026 12:11
+3495d2b5-d1bd-485a-80a8-f534e41efa44,terminate.locker,available,6.88,37.99,medium,low,9,namesilo,,,28/09/2026 14:01
 7d60e524-573f-4e9e-8fb4-a92cbcd1f5e2,unpleasant.locker,available,6.88,37.99,medium,low,10,namesilo,,,12/09/2026 16:58
 133438be-2be6-4618-8b97-d6d0090311aa,punt.locker,available,6.98,56.98,high,low,4,namecheap,,,18/08/2026 19:54
 2642d92b-b41d-47aa-a311-0158dbf5d247,echo.locker,available,13.25,37.99,high,medium,4,namesilo,,,
 d5295ef7-985b-46f7-b2ec-b97d0e4d3011,temptable.locker,available,6.88,37.99,medium,low,9,namesilo,,,11/09/2026 11:04
 f9ab73bb-c06c-407d-8544-4ce006d620cd,spongy.locker,available,6.88,37.99,medium,low,6,namesilo,,,10/09/2026 16:24
 1b8d0696-0d07-4021-8f25-7ec7b3a810ea,bioethics.locker,available,6.98,56.98,high,low,9,namecheap,,,23/09/2026 17:56
+433004c1-0885-43c4-aa3e-b79efd2f6fec,hms.locker,premium,58.72,8.8,medium,low,3,namesilo,,,28/09/2026 12:51
 d97893e5-ae33-4ef2-8ffe-0b84252cac6a,agar.locker,available,6.88,37.99,medium,low,4,namesilo,,,17/09/2026 16:14
 472c389d-c4b1-4b08-8a57-a3bd64a63247,antiserum.locker,available,6.98,56.98,medium,low,9,namecheap,,,19/09/2026 15:05
 37a24480-c45b-4c1c-880d-f5a8001ef788,gladiolus.locker,available,6.88,37.99,high,low,9,namesilo,,,19/08/2026 00:06
@@ -440,6 +469,7 @@ f7370592-9849-49da-930c-39d35182f631,basel.locker,available,6.88,37.99,high,medi
 ce6731c4-a6ba-41cc-83c7-201fc64bb34c,roving.locker,available,6.88,37.99,high,low,6,namesilo,,,25/08/2026 02:22
 84ec0f1f-fb68-445b-af31-8cce603e01d9,elliptic.locker,available,6.88,37.99,high,low,8,namesilo,,,15/08/2026 17:59
 ff834c4e-2f8c-4be0-85ae-9befd56de073,naive.locker,available,6.88,37.99,high,low,5,namesilo,,,03/09/2026 12:50
+11d42c74-bed7-4cf0-9b91-000c08e0a000,saves.locker,available,6.88,37.99,medium,low,5,namesilo,,,28/09/2026 09:04
 bb42486e-0210-4283-997f-7938bbe1f9de,luxuriant.locker,available,6.88,37.99,high,low,9,namesilo,,,15/08/2026 22:14
 6a08f190-f3d8-4f6a-87ee-748719d0708b,balarama.locker,available,6.98,56.98,medium,low,8,namecheap,,,21/09/2026 21:06
 35fa656a-16ba-47ab-ad9a-e27d0c452b92,tuesday.locker,available,13.25,37.99,high,low,7,namesilo,,,
@@ -452,8 +482,10 @@ ec367788-5f56-48c2-bf33-30d9ee6e3877,goby.locker,available,6.88,37.99,medium,low
 19721a41-0027-4963-9101-2e1ad30f19e5,drank.locker,available,6.88,37.99,high,low,5,namesilo,,,28/09/2026 08:20
 e2d60a5f-c973-4b08-8f55-1c11e3db0a29,tracing.locker,available,13.25,37.99,high,low,7,namesilo,,,
 a9a0e2eb-d6dc-47b1-9fd2-2d14f7490d65,bellhop.locker,available,6.88,37.99,high,low,7,namesilo,,,23/09/2026 06:01
+0574d07d-d06b-4bb8-92bb-236c48dcf01d,peek.locker,available,5.68,31.25,high,low,4,spaceship,,,28/09/2026 19:21
 63fae4f1-84e1-40e6-ac9b-ac42d059f566,bellow.locker,available,6.88,37.99,medium,low,6,namesilo,,,23/09/2026 06:17
-f18a0158-918e-449d-904f-efc65aebc2e9,thus.locker,available,19.99,,high,low,4,name.com,,,
+f18a0158-918e-449d-904f-efc65aebc2e9,thus.locker,available,5.68,31.25,high,low,4,spaceship,,,28/09/2026 15:12
+170ae564-f3b5-4727-b887-db28d14e76c3,cain.locker,available,6.88,37.99,high,low,4,namesilo,,,28/09/2026 09:13
 af48b25f-af31-40fd-a098-31598917babf,dissolving.locker,available,6.88,37.99,high,low,10,namesilo,,,24/09/2026 23:08
 ecb3e1f4-49a7-4a5f-8119-a1ed48555839,obscure.locker,available,6.88,37.99,high,low,7,namesilo,,,05/08/2026 21:59
 9ab97f28-8281-48f5-a8b0-3ae7e279367d,umbilicus.locker,available,6.98,56.98,medium,low,9,namecheap,,,23/09/2026 06:37
@@ -466,6 +498,7 @@ d293ff04-94f2-48d7-b80a-59d89d04d019,antidotal.locker,available,6.88,37.99,mediu
 898735d4-df0d-439a-b349-2af5f64197b0,sanctions.locker,available,6.88,37.99,medium,low,9,namesilo,,,20/09/2026 01:56
 e471a763-e6ed-423d-8f92-add749eb97af,phones.locker,premium,58.72,8.8,high,low,6,namesilo,,,20/09/2026 09:31
 bcfa6ffd-29f2-4832-bdc1-30d106fb471e,befog.locker,available,6.88,37.99,medium,low,5,namesilo,,,03/09/2026 23:52
+67c50525-02c1-4317-90d1-8c3d48f60a28,konrad.locker,available,6.88,37.99,medium,low,6,namesilo,,,28/09/2026 12:53
 7d315613-4104-4f53-b73d-94f1ffe69684,edgeways.locker,available,6.88,37.99,medium,low,8,namesilo,,,14/09/2026 15:04
 3641e0d8-af54-4422-8592-f9a242c12538,yall.locker,available,13.25,37.99,medium,low,4,namesilo,,,
 b8f9ec8a-9493-4e0e-bd5b-0028270aba29,jewelry.locker,premium,3136.33,8.05,high,low,7,namesilo,,,
@@ -497,6 +530,7 @@ e9238e05-736e-4e0b-ac1f-88ce6d931f60,january.locker,available,13.25,37.99,high,l
 132a3f13-d2d1-4834-a9c1-0b6a1fd77eec,ngo.locker,premium,159.23,8.8,high,low,3,namesilo,,,27/09/2026 04:51
 17f9a1cf-eea3-4a54-abd2-ecca8e6c789a,trojan.locker,available,6.98,56.98,high,low,6,namecheap,,,11/09/2026 20:17
 48d35917-e386-43bb-ab83-7227017c4f9c,den.locker,premium,159.23,8.8,high,low,3,namesilo,,,24/09/2026 21:50
+416be0f5-4420-4b75-a3f9-44d67bedcbf7,ira.locker,premium,159.23,8.8,medium,low,3,namesilo,,,28/09/2026 14:31
 ddfba9b9-ca6f-45a9-8a18-f35b4145bb41,hideous.locker,available,6.88,37.99,medium,low,7,namesilo,,,21/08/2026 08:13
 5d31201a-b436-433f-9ab6-8195d09f888f,puritanic.locker,available,6.88,37.99,high,medium,9,namesilo,,,09/09/2026 06:20
 3bf9c643-768b-4722-a2d2-921a58fed8a6,lutzen.locker,available,6.88,37.99,medium,low,6,namesilo,,,22/09/2026 15:24
@@ -508,6 +542,7 @@ b39dad48-da0e-4a1b-b3a7-21c75860c1eb,ambassador.locker,premium,58.72,8.8,high,lo
 26f07018-ebf8-4929-bfc6-b9399e7867c6,anecdotist.locker,available,6.88,37.99,medium,low,10,namesilo,,,19/09/2026 05:08
 a3d0164e-ad5a-4701-8627-825ed9ebe3dd,poignant.locker,available,6.88,37.99,high,low,8,namesilo,,,
 3b9ca3ca-888a-4ad7-8d52-51512b2c3c54,academism.locker,available,6.98,56.98,medium,low,9,namecheap,,,16/09/2026 20:23
+1d871ac9-5361-4558-90c1-b3fdfebc0ac0,anticipation.locker,available,5.68,31.25,high,low,12,spaceship,,,28/09/2026 22:53
 da905df5-3ce2-4f6d-aae0-03492d16a6b2,crockett.locker,available,9.99,59.99,medium,low,8,godaddy,,,28/09/2026 01:43
 39dfe5fb-e1a6-4c76-8c06-ed7bfe92317c,activator.locker,available,6.98,56.98,high,low,9,namecheap,,,17/09/2026 05:10
 279b6ae1-d568-4bd4-8581-8a32bfb4388b,freehand.locker,available,6.88,37.99,high,low,8,namesilo,,,18/08/2026 14:55
@@ -515,10 +550,12 @@ da905df5-3ce2-4f6d-aae0-03492d16a6b2,crockett.locker,available,9.99,59.99,medium
 288a90d5-5125-403b-8d94-5992c9b2b406,apothecary.locker,available,6.88,37.99,high,low,10,namesilo,,,19/09/2026 19:42
 b93e001a-62be-4feb-aab3-6e40785d15b9,instructor.locker,available,6.88,37.99,high,low,10,namesilo,,,28/09/2026 02:10
 8c034b5a-6b1f-423e-8f22-8cb3006e7417,brockhouse.locker,available,6.88,37.99,medium,low,10,namesilo,,,23/09/2026 10:18
-aa48d9ab-71fd-4040-93e7-c226b57a0076,oregon.locker,premium,290.91,8.05,high,low,6,namesilo,,,
+fa74a285-e6d2-44ac-a669-99f1f5313511,incorporated.locker,available,32.32,32.32,high,low,12,dynadot,,,28/09/2026 22:28
+aa48d9ab-71fd-4040-93e7-c226b57a0076,oregon.locker,premium,1035.2,31.25,high,low,6,spaceship,,,29/09/2026 01:45
 e5a77111-b536-419d-8399-25cf6d765d0b,madagascan.locker,available,6.88,37.99,medium,low,10,namesilo,,,24/08/2026 12:55
 6bbc30cf-db89-40f9-8948-d45f5bbfe6a1,frostbite.locker,available,6.98,56.98,high,low,9,namecheap,,,24/09/2026 19:56
 29ac24f6-58cd-4340-911b-95d0f962c3a8,helped.locker,available,6.98,56.98,medium,low,6,namecheap,,,25/09/2026 18:33
+2b8d1137-89ef-4055-a46d-1a35c2d04be0,teenagers.locker,available,5.68,31.25,medium,low,9,spaceship,,,28/09/2026 13:27
 c9a9a4ce-e477-44bb-8b9d-9a324825865c,adopt.locker,premium,318.46,8.8,high,low,5,namesilo,,,28/09/2026 03:18
 f05c8dd3-0148-4f19-8c13-b2c55ed51f0c,twoscore.locker,available,6.88,37.99,medium,low,8,namesilo,,,
 ffda2f16-a0cd-43e1-b1d1-4828547cdf95,cucumber.locker,available,19.99,,high,low,8,name.com,,,
@@ -527,16 +564,16 @@ df3d1d82-f186-4f4e-8a32-322884bdeb70,civilly.locker,available,6.88,37.99,medium,
 49e39090-c403-4202-bb3f-6b31c118ba75,aquamarine.locker,available,6.88,37.99,high,low,10,namesilo,,,19/09/2026 22:49
 5daa9482-96ef-4619-9b13-dd0aeb9e0ccb,nutrify.locker,available,6.88,37.99,medium,low,7,namesilo,,,18/09/2026 07:57
 d9518dcd-de06-4213-8af2-efe138f62b3d,engage.locker,premium,290.91,8.05,high,low,6,namesilo,,,
-098cff91-e07a-48cf-b73d-6963916fb942,athlete.locker,premium,1511.35,8.05,high,low,7,namesilo,,,
+098cff91-e07a-48cf-b73d-6963916fb942,athlete.locker,premium,5458.82,33.27,high,low,7,porkbun,,,28/09/2026 22:57
 f17920d9-f15d-4e2c-a0e3-4d5123e423f1,forego.locker,available,6.88,37.99,high,low,6,namesilo,,,18/08/2026 11:52
 8edcb60a-2d9a-4d51-a853-61f8afad3c0f,assort.locker,available,6.88,37.99,high,low,6,namesilo,,,17/09/2026 14:23
 e7d14ef7-3e68-48f9-9bd3-e75a56ab7cde,reasonably.locker,available,6.88,37.99,medium,low,10,namesilo,,,25/09/2026 11:58
 1d8b4cc1-29df-43c5-ab30-d228c389f659,antemortem.locker,available,6.88,37.99,medium,low,10,namesilo,,,
+61cf35fd-0bcd-4b55-92c2-cedc3f529fcf,severely.locker,available,6.88,37.99,medium,low,8,namesilo,,,28/09/2026 13:15
 41b23418-1fbd-4329-986c-93cb916eb557,preachy.locker,available,6.88,37.99,high,medium,7,namesilo,,,09/09/2026 01:07
 e2c4c0e0-e093-41a5-8c0d-d0a05b70a17e,deceiver.locker,available,6.88,37.99,medium,low,8,namesilo,,,23/09/2026 02:29
-e1c7d8c8-ac35-4522-9913-6db053a87983,unique.locker,premium,1511.35,8.05,high,medium,6,namesilo,,,
+e1c7d8c8-ac35-4522-9913-6db053a87983,unique.locker,premium,1654.52,8.8,high,medium,6,namesilo,,,28/09/2026 09:43
 18b1ddaa-0f26-46aa-84ba-c867d6a9730d,orchestra.locker,premium,145.46,8.05,high,low,9,namesilo,,,
-87ebe359-3b30-4e25-9777-d89ac22d1822,march.locker,available,19.99,,high,high,5,name.com,,,
 019b07e9-4f3a-46a7-9a92-3417bae3aea1,forthwith.locker,available,6.88,37.99,medium,low,9,namesilo,,,10/09/2026 21:39
 fb34b066-726a-40c7-abea-45def38c1545,insidious.locker,available,6.88,37.99,medium,low,9,namesilo,,,22/08/2026 07:05
 855cf5f4-7f7f-437a-8cd7-abf98586e5e6,bacterium.locker,available,6.88,37.99,medium,low,9,namesilo,,,21/09/2026 16:30
@@ -549,6 +586,7 @@ c604988f-d5ac-410c-a347-f64a76ec39e0,sodium.locker,available,6.88,37.99,high,low
 3340b48c-7ba2-4207-be9d-ed820f7f17a5,profitless.locker,available,6.88,37.99,medium,low,10,namesilo,,,09/09/2026 02:50
 1e1603dd-0d19-41f6-9810-16d4d11a27cf,unfettered.locker,available,6.88,37.99,high,low,10,namesilo,,,12/09/2026 04:56
 a5de1bb7-23c8-4126-b470-a07b82f4bd9b,northerner.locker,available,6.88,37.99,medium,low,10,namesilo,,,13/09/2026 14:16
+7e010af8-7bdb-4e38-a6b5-c304c8b1c7d3,nuns.locker,available,6.88,37.99,medium,low,4,namesilo,,,28/09/2026 12:28
 b02d58e0-a917-461a-a602-726c6357f7aa,metabolous.locker,available,6.98,56.98,medium,low,10,namecheap,,,24/08/2026 21:28
 cad9ccad-ce04-4723-a3d5-39f51cd614cd,thug.locker,available,6.88,37.99,medium,low,4,namesilo,,,27/09/2026 08:15
 f4f546e2-565d-4d13-825a-2a747786f3ed,incarnate.locker,available,6.88,37.99,high,low,9,namesilo,,,16/08/2026 09:36
@@ -557,19 +595,23 @@ f4f546e2-565d-4d13-825a-2a747786f3ed,incarnate.locker,available,6.88,37.99,high,
 7fa608f6-8d37-421c-ab59-947cf540fa85,inflated.locker,available,6.88,37.99,medium,low,8,namesilo,,,21/08/2026 08:47
 7d8c0ee2-a9c3-4818-9ed4-4940a53b0225,phylliform.locker,available,6.98,56.98,high,medium,10,namecheap,,,08/09/2026 19:24
 3638169d-f203-4952-ad94-e994283b0920,cut.locker,premium,159.23,8.8,high,low,3,namesilo,,,24/09/2026 04:08
+ac0881d4-2f26-428c-a373-690821b9079d,kerala.locker,available,5.68,31.25,medium,low,6,spaceship,,,28/09/2026 16:15
 0a454f16-f467-4fef-abcd-a602fe2c521a,ellen.locker,available,13.25,37.99,high,low,5,namesilo,,,
 0310423f-a3ce-446b-bb78-c2a7ebaff4a4,caracas.locker,available,13.25,37.99,high,low,7,namesilo,,,
 6edd4a17-9116-4f0a-a3ef-676937e11bee,tate.locker,available,6.88,37.99,high,low,4,namesilo,,,18/09/2026 10:50
+4a20db44-2f46-4ef8-a347-5c57fc7d273a,adirondack.locker,available,5.68,31.25,medium,low,10,spaceship,,,28/09/2026 21:35
 1ed37778-97c5-45f5-9bc8-943c12e5a561,incensed.locker,available,6.88,37.99,medium,low,8,namesilo,,,22/08/2026 01:01
 a8f877a4-e10f-42fc-86f8-62f329fa3a32,punjab.locker,available,6.88,37.99,high,low,6,namesilo,,,27/09/2026 05:06
 43c1ebb0-b500-424c-b5ff-710f79e8162d,unknowable.locker,available,6.88,37.99,medium,low,10,namesilo,,,12/09/2026 14:17
 cc56b729-5be7-4116-9d15-78c09a6e813b,pre.locker,premium,145.46,8.05,high,low,3,namesilo,,,
+e6932768-aada-4696-b5e8-910c1d63ed7a,flooding.locker,available,6.88,37.99,medium,low,8,namesilo,,,29/09/2026 00:57
 d7cfaa68-6f7a-4e7b-8996-88a4f18e2b91,biaxal.locker,available,6.88,37.99,medium,low,6,namesilo,,,09/08/2026 18:46
 4f902541-8ba6-4d69-9ed4-7283d7502f43,vanadium.locker,available,6.88,37.99,medium,low,8,namesilo,,,20/09/2026 22:37
 02139532-4ed8-46ae-8603-9186da35f499,aarhus.locker,available,6.88,37.99,medium,low,6,namesilo,,,16/09/2026 13:27
 88107bb9-25a0-4e4f-a0a2-24b9582e9d67,shortness.locker,available,6.88,37.99,medium,low,9,namesilo,,,16/09/2026 17:27
 6400658f-069f-4759-9034-b2ce2011c5cf,drubbing.locker,available,6.88,37.99,medium,low,8,namesilo,,,13/09/2026 07:58
 6c6c811c-2eb6-4ee6-ad11-f889f897fa60,wipes.locker,available,6.88,37.99,medium,low,5,namesilo,,,20/09/2026 09:39
+7b0a4d18-6f34-4e0f-b189-23db36a0a3ef,laramie.locker,available,5.68,31.25,medium,low,7,spaceship,,,28/09/2026 14:40
 fbc250f0-5255-4440-b9f9-5357fae8a48f,asked.locker,available,13.25,37.99,high,low,5,namesilo,,,
 3d6a0547-735d-47d9-a107-7b99ebd361b7,sizeable.locker,available,6.88,37.99,high,low,8,namesilo,,,20/08/2026 16:40
 fae46a5c-b72c-4bf8-8303-fa04770fc8a7,road.locker,available,13.25,37.99,high,low,4,namesilo,,,
@@ -590,15 +632,18 @@ f540971b-5469-4cc0-a780-31cd3fcdafd8,earmark.locker,available,6.88,37.99,high,lo
 989c5213-8062-4dad-a165-2c57876e14c4,inanimate.locker,available,6.88,37.99,medium,low,9,namesilo,,,22/08/2026 00:17
 7dd1d76b-fa56-4bae-9239-2e092b20a1d7,plowed.locker,available,6.98,56.98,medium,low,6,namecheap,,,08/09/2026 21:24
 b9912439-6278-4903-ba79-680289c2c314,xlvi.locker,available,6.88,37.99,medium,low,4,namesilo,,,
+77beb6bc-19ba-41f0-a3f2-dc4d258aef78,ipc.locker,premium,159.23,8.8,medium,low,3,namesilo,,,28/09/2026 15:52
 fc6e5f88-f95f-436f-84b5-fd880f7f18c5,reminded.locker,available,6.88,37.99,medium,low,8,namesilo,,,18/09/2026 03:00
 74d86b91-c6c2-4799-b9ca-b1fc1514f785,doctoral.locker,available,6.88,37.99,medium,low,8,namesilo,,,14/08/2026 14:19
 59baf703-f87a-422e-ae87-35044864cd11,based.locker,available,6.98,56.98,high,medium,5,namecheap,,,22/09/2026 17:49
 588fe9bf-2aa2-4c65-9fcd-33202dba30d4,hotels.locker,premium,318.46,8.8,high,high,6,namesilo,,,20/09/2026 05:12
+19ab6cae-c532-45b7-a33f-f2f834ad8eba,cooperative.locker,available,5.68,31.25,high,low,12,spaceship,,,29/09/2026 02:51
 3633044e-1257-43ac-9cb7-21593927f08b,kidd.locker,available,6.98,56.98,high,low,4,namecheap,,,28/09/2026 01:23
 ce53f09e-b555-49f5-b4d9-a14b6d082add,misdirect.locker,available,6.88,37.99,medium,low,9,namesilo,,,13/08/2026 02:26
 781e2294-652e-4975-ac5e-70c2b9b1b44c,experiments.locker,available,32.32,32.32,medium,low,11,dynadot,,,28/09/2026 04:57
 955d7d45-0b31-42ba-9250-52e20feb59dc,increase.locker,available,13.25,37.99,high,low,8,namesilo,,,
 eeb25643-0381-45a7-b7d1-6698a305e65e,seagoing.locker,available,6.88,37.99,medium,low,8,namesilo,,,04/09/2026 00:24
+a7d29033-7a9a-4c1f-bc38-3d0dd50cd131,weinberg.locker,available,5.66,31.41,medium,low,8,porkbun,,,28/09/2026 10:58
 40d0c598-4b3e-47c9-9555-4dc2f69182f7,westside.locker,available,6.88,37.99,high,low,8,namesilo,,,13/09/2026 11:00
 2c5e22aa-4bac-4405-857f-53bcb1eeeefa,vocalizing.locker,available,6.88,37.99,high,medium,10,namesilo,,,10/09/2026 08:24
 9aef5556-f227-47ed-a39c-15012359ead9,youngish.locker,available,6.88,37.99,medium,low,8,namesilo,,,13/09/2026 14:49
@@ -621,7 +666,7 @@ c223f563-1881-4212-b1cf-cf6410441408,jillion.locker,available,6.98,56.98,medium,
 455f48ef-fc4c-4215-9357-b1214ecde858,anabolic.locker,available,6.88,37.99,high,low,8,namesilo,,,
 7ace6fc6-5325-4220-9cb5-83a1abd27bdd,archimedes.locker,available,6.88,37.99,medium,low,10,namesilo,,,20/09/2026 02:08
 60dfc48b-3e26-461e-b9b9-e8e98a6ef0d4,begging.locker,available,6.88,37.99,medium,low,7,namesilo,,,23/09/2026 02:16
-79d4f362-df1a-4460-b65c-083f6cefb392,axis.locker,available,13.25,37.99,high,medium,4,namesilo,,,
+79d4f362-df1a-4460-b65c-083f6cefb392,axis.locker,available,6.88,37.99,high,medium,4,namesilo,,,28/09/2026 23:58
 31d320d1-88f6-4c4d-b317-f4dc2419d033,fink.locker,available,6.88,37.99,high,medium,4,namesilo,,,11/08/2026 16:11
 736b121f-0625-4660-9955-df5ce5a07fc3,fivefold.locker,available,6.88,37.99,medium,low,8,namesilo,,,18/08/2026 05:56
 f36ed08c-03ea-437e-91e2-6ec09f476173,murine.locker,available,6.88,37.99,medium,low,6,namesilo,,,03/09/2026 11:04
@@ -637,15 +682,17 @@ df9a21b8-51ae-49a7-b4b8-fab5df3fe4e6,aftertaste.locker,available,6.98,56.98,high
 c5066469-4dd3-49c6-a265-bae44eacc194,globally.locker,available,6.88,37.99,high,low,8,namesilo,,,14/09/2026 21:41
 1aae90be-48d5-4937-88bb-1a864da9bc4d,mccormick.locker,available,6.88,37.99,high,low,9,namesilo,,,25/09/2026 04:30
 af0da444-5e99-4e42-b7fe-a0adc096aa62,woolf.locker,available,6.88,37.99,medium,low,5,namesilo,,,17/09/2026 07:19
+5f4039b3-5d8d-4567-ba2a-cdcd430fafa1,cruiser.locker,available,5.66,31.41,medium,low,7,porkbun,,,28/09/2026 18:32
 ec864801-a0f3-4690-8865-306e41a9fdbd,unlucky.locker,available,6.98,56.98,medium,low,7,namecheap,,,21/08/2026 19:11
 25f1b59f-b0f7-452b-b656-e24705e5aeb2,bodies.locker,available,6.88,37.99,medium,low,6,namesilo,,,25/09/2026 16:46
 09f8e64f-d125-4d7e-b929-27a6ad11477a,diploid.locker,available,6.88,37.99,medium,low,7,namesilo,,,14/08/2026 08:26
 d3f2d729-d915-4836-8e53-031685ddc967,barbate.locker,available,6.88,37.99,medium,low,7,namesilo,,,08/08/2026 16:10
 47c4b2a4-a00e-4f40-b974-f6d920bb661a,glooming.locker,available,6.88,37.99,medium,low,8,namesilo,,,20/08/2026 14:41
 18623dfb-6de0-453c-8922-06bbcd0ad50e,mum.locker,premium,159.23,8.8,high,low,3,namesilo,,,25/09/2026 22:08
-2d21f898-ff6f-4208-96fa-f93342627739,garlic.locker,available,13.25,37.99,high,low,6,namesilo,,,
+2d21f898-ff6f-4208-96fa-f93342627739,garlic.locker,available,5.68,31.25,high,low,6,spaceship,,,28/09/2026 19:27
 d7da661e-c6e3-42ba-a130-7d7cf878d07f,hypotonic.locker,available,6.88,37.99,medium,low,9,namesilo,,,21/08/2026 17:19
 da0b97c4-8cd2-43a2-bba4-ef4b0c79aaea,crowley.locker,available,6.88,37.99,medium,low,7,namesilo,,,27/09/2026 01:51
+3ab77cb4-0328-4e0c-8b35-ed0d081a468d,lorentz.locker,available,32.32,32.32,medium,low,7,dynadot,,,28/09/2026 19:26
 6f066c17-0853-4150-86ed-c029e730a087,pilary.locker,available,6.88,37.99,high,medium,6,namesilo,,,08/09/2026 19:40
 1b78025a-0759-400c-af70-2be4a3264ff0,albinism.locker,available,6.88,37.99,medium,low,8,namesilo,,,18/09/2026 02:54
 57ad28c9-f374-40c2-bd77-8eeb7b371dfd,possibility.locker,available,6.98,56.98,high,low,11,namecheap,,,25/09/2026 16:40
@@ -655,10 +702,11 @@ a59fb5c1-da8c-479f-ab7b-d3e95ebeb269,luscious.locker,available,6.88,37.99,high,l
 9836ff3c-8e1a-4965-9320-d4c75873d976,decorated.locker,available,6.88,37.99,high,low,9,namesilo,,,21/09/2026 19:45
 3637595e-9282-4c16-9894-404dd7609c9e,starved.locker,available,6.88,37.99,medium,low,7,namesilo,,,17/08/2026 13:45
 f00e06f0-523a-44c6-8e4a-99a769b30b92,ricefield.locker,available,13.25,37.99,medium,low,10,namesilo,,,
+5adc98fa-38d3-4809-a2c9-e9c4eb784cd7,uno.locker,premium,517.7,31.25,high,medium,3,spaceship,,,28/09/2026 21:47
 76771d72-5d21-4394-9c70-7dadc2a15cf2,neotenous.locker,available,6.88,37.99,medium,low,9,namesilo,,,03/09/2026 15:33
 6552fc57-6cf5-4fca-b1c3-505542605b44,shirty.locker,available,6.88,37.99,high,medium,6,namesilo,,,10/09/2026 06:37
 08a55bf7-f814-4df8-81a0-7c9196bc65e3,booth.locker,premium,58.72,8.8,high,low,5,namesilo,,,24/09/2026 07:20
-eb69aa0c-778c-43de-8cd4-5a683077aa95,chemistry.locker,premium,318.46,8.8,high,low,9,namesilo,,,25/09/2026 04:08
+eb69aa0c-778c-43de-8cd4-5a683077aa95,chemistry.locker,premium,318.46,8.8,high,low,9,namesilo,,,28/09/2026 12:10
 52eaa1c3-d176-427a-ae68-85de2270610d,taboo.locker,available,6.88,37.99,high,low,5,namesilo,,,18/08/2026 11:03
 57da74db-2062-4ffd-bd9b-5c964e39f6d5,effete.locker,available,6.98,56.98,medium,low,6,namecheap,,,13/08/2026 20:52
 ada740e3-47fa-4c45-8fd2-eaf269787327,anodic.locker,available,6.88,37.99,high,low,6,namesilo,,,
@@ -667,6 +715,7 @@ ada740e3-47fa-4c45-8fd2-eaf269787327,anodic.locker,available,6.88,37.99,high,low
 a6304887-3eba-48ed-9004-2a792e351692,derelict.locker,available,6.98,56.98,medium,low,8,namecheap,,,21/09/2026 13:39
 ee2d5415-67e7-46d5-ab84-2561a91d90df,scandium.locker,available,6.88,37.99,medium,low,8,namesilo,,,20/09/2026 22:34
 045ec4e5-2d71-479d-9607-21c615995da6,unhindered.locker,available,6.88,37.99,medium,low,10,namesilo,,,12/09/2026 11:55
+b368ecda-86f6-40d0-948f-9dcd5cb6fadf,skeleton.locker,available,5.68,31.25,high,low,8,spaceship,,,28/09/2026 10:56
 7ee90faf-2bdd-4c71-9d45-74572e23a10d,aragonite.locker,available,6.88,37.99,medium,low,9,namesilo,,,19/09/2026 23:43
 a4ded74b-ad64-4181-9952-59ab64ec0878,vivian.locker,available,5.66,31.41,high,low,6,porkbun,,,28/09/2026 03:58
 9d872087-2197-4502-829f-7b93806e4c77,lovingness.locker,available,6.98,56.98,high,low,10,namecheap,,,11/08/2026 19:18
@@ -692,19 +741,21 @@ e1225a8a-42d2-4eaf-bbc5-c508cab7245f,unshared.locker,available,6.88,37.99,medium
 e9e32d7d-6050-4837-93ed-4966cca8972f,areola.locker,available,6.88,37.99,medium,low,6,namesilo,,,20/09/2026 03:49
 706069dd-d90c-415c-afd5-f7e41318d549,benefits.locker,available,6.88,37.99,high,low,8,namesilo,,,27/09/2026 23:08
 d5210327-18c6-4166-9a53-25144126ed04,actium.locker,available,6.88,37.99,medium,low,6,namesilo,,,17/09/2026 05:08
-844bd753-423b-4dc5-ba9f-10274d56994d,acronym.locker,available,13.25,37.99,high,low,7,namesilo,,,
+844bd753-423b-4dc5-ba9f-10274d56994d,acronym.locker,available,5.66,31.41,high,low,7,porkbun,,,28/09/2026 18:01
 2ed85314-ebbb-4906-a6ba-5433a7f60b7c,armand.locker,available,6.88,37.99,medium,low,6,namesilo,,,28/09/2026 07:26
 1f9c6f6d-ec83-48fb-bac9-7829aaa5cbbd,eparchial.locker,available,6.88,37.99,medium,low,9,namesilo,,,17/08/2026 10:12
+023fdfa5-dfea-40f3-a085-fa98b619b8bd,malvern.locker,available,32.32,32.32,medium,low,7,dynadot,,,28/09/2026 16:50
 315932b8-6d56-4cbe-b5aa-667043bf4365,speedily.locker,available,6.98,56.98,medium,low,8,namecheap,,,13/09/2026 20:19
 db4e5b40-54c6-47b6-84f2-d0d14fc2cbad,complicated.locker,available,13.25,37.99,high,low,11,namesilo,,,
 2c8e4850-40f3-425d-8a05-7fffb3cdcc33,trim.locker,available,6.88,37.99,high,low,4,namesilo,,,12/08/2026 10:14
-0f95887d-2377-483d-9969-5d8f014c7c95,generally.locker,available,13.25,37.99,high,low,9,namesilo,,,
+0f95887d-2377-483d-9969-5d8f014c7c95,generally.locker,available,6.88,37.99,medium,low,9,namesilo,,,28/09/2026 13:35
 d663f840-303f-4752-900e-f9fb434d97f6,peanut.locker,available,6.88,37.99,high,low,6,namesilo,,,08/09/2026 11:13
 5aad0431-8661-45af-89e4-533a9aaf2137,cas.locker,premium,650,39,high,low,3,namecheap,,,27/09/2026 23:14
 79648c17-f9ea-4ee2-9da9-6d852e19169b,ceylonese.locker,available,6.88,37.99,high,low,9,namesilo,,,12/08/2026 01:10
 ee20c776-bb12-428d-8c1b-46206e8213eb,bilsted.locker,available,6.98,56.98,medium,low,7,namecheap,,,18/09/2026 20:49
-24bb8b4a-bda7-44c0-be64-602d3aae65fe,cosmos.locker,premium,1511.35,8.05,high,low,6,namesilo,,,
+24bb8b4a-bda7-44c0-be64-602d3aae65fe,cosmos.locker,premium,1654.52,8.8,high,medium,6,namesilo,,,28/09/2026 10:55
 fa0b41f8-aef4-489e-991c-d9a1a2b5b4e3,mcguire.locker,available,6.98,56.98,high,low,7,namecheap,,,27/09/2026 08:49
+f9c5dd3c-5320-4d61-aebd-41b9f6ead6da,estuaries.locker,available,5.68,31.25,low,low,9,spaceship,,,28/09/2026 12:58
 215574d0-b03a-40e9-8855-b053c3ad4e4e,slammer.locker,available,6.88,37.99,medium,low,7,namesilo,,,08/09/2026 22:49
 dd075ec4-f8df-45b6-bc1d-7aad2b011896,autogiro.locker,available,6.88,37.99,medium,low,8,namesilo,,,21/09/2026 06:22
 27f756e0-cd13-458e-b5f7-b0a1b432c546,internally.locker,available,6.88,37.99,medium,low,10,namesilo,,,15/09/2026 09:01
@@ -720,7 +771,7 @@ e9898ea7-fc68-4dbb-83c1-9faf7336d761,disappointed.locker,available,13.25,37.99,m
 2d48bd9b-d390-4385-997b-ca67d5bd51b3,centuries.locker,available,6.88,37.99,medium,low,9,namesilo,,,17/09/2026 04:43
 56f35830-5103-419c-9bd1-1114041d119e,vulvar.locker,available,6.88,37.99,medium,low,6,namesilo,,,13/09/2026 07:29
 ace63c5b-663d-479b-ba20-0caa58a2d796,arranger.locker,available,6.88,37.99,high,low,8,namesilo,,,17/09/2026 06:29
-8ef34e6c-beba-41fe-a570-75be303aa6bb,birth.locker,available,13.25,37.99,high,low,5,namesilo,,,
+8ef34e6c-beba-41fe-a570-75be303aa6bb,birth.locker,available,5.68,31.25,high,low,5,spaceship,,,29/09/2026 02:50
 91d91f41-899f-47fe-9060-dc0e9f6d76c0,anorexic.locker,available,6.88,37.99,medium,low,8,namesilo,,,
 3e6b411c-c1db-4e96-90f5-8a55b515ad17,loveless.locker,available,6.88,37.99,medium,low,8,namesilo,,,24/08/2026 10:09
 8277845b-23d1-4ce4-8e21-0b8ab5792538,liberate.locker,available,6.88,37.99,high,low,8,namesilo,,,18/08/2026 14:32
@@ -759,6 +810,7 @@ da235466-7d7c-474e-b0f2-7102fb9824a6,serbs.locker,available,6.88,37.99,medium,lo
 9f69aa53-293a-4dc0-8825-15a75c185ed3,continually.locker,available,13.25,37.99,medium,low,11,namesilo,,,
 ce54366c-2c10-40db-a8f2-f59df677e3ea,enamored.locker,available,6.98,56.98,high,low,8,namecheap,,,16/08/2026 21:09
 4b989ddb-9a05-409d-9fd7-007a1d4e6a2e,unstressed.locker,available,6.88,37.99,medium,low,10,namesilo,,,12/09/2026 20:37
+a961a95a-f9e8-484b-802e-8cdaf52154be,muhammad.locker,available,5.68,31.25,medium,low,8,spaceship,,,28/09/2026 13:59
 77697cb0-006e-4b69-a87a-610d6bc66434,concussion.locker,available,13.25,37.99,high,low,10,namesilo,,,
 cd36fe1e-4024-4f87-8491-b46544500792,air.locker,premium,13000,39,high,medium,3,namecheap,,,19/09/2026 13:23
 2a359feb-a009-4d27-b1c4-3c4aeec1fd9c,hollis.locker,available,6.98,56.98,medium,low,6,namecheap,,,28/09/2026 07:30
@@ -771,12 +823,13 @@ c2db36da-5618-40bc-b347-4aefc5b9e092,sidearm.locker,available,6.88,37.99,high,me
 dd502573-b9d1-4ddd-af05-5c262aec6183,intestinal.locker,available,6.88,37.99,medium,low,10,namesilo,,,04/09/2026 08:14
 7fad3d78-6871-410e-bf80-d197e13c3b1c,festival.locker,premium,1300,39,high,low,8,namecheap,,,19/09/2026 17:31
 78dd1418-bc23-41c7-820a-56bdd6adf258,wonderfully.locker,available,13.25,37.99,high,low,11,namesilo,,,
+1b1ceef3-56ab-42d6-92b1-47db4e173215,correction.locker,available,6.88,37.99,medium,low,10,namesilo,,,28/09/2026 09:23
 3bdf2f53-e26c-4e1d-a5c7-0c79316d8b50,carolina.locker,premium,,,high,low,8,,,,28/09/2026 01:35
 21b89463-770c-47b6-896d-7cff6bf85c40,carousing.locker,available,6.88,37.99,medium,low,9,namesilo,,,08/08/2026 04:24
 4fa61165-5ebd-4b40-a4d9-197122fad6b0,binghamton.locker,available,6.98,56.98,medium,low,10,namecheap,,,23/09/2026 17:34
 804889d9-2153-4dc5-b2ce-6ad90f725292,drogue.locker,available,6.88,37.99,medium,low,6,namesilo,,,17/09/2026 21:47
 b59a9588-ae54-4d6b-b565-ed50cb8ef041,cathartic.locker,available,6.88,37.99,high,low,9,namesilo,,,05/08/2026 22:20
-1f8b08d8-79a4-4dba-a2ee-5f32ea1c83d6,adios.locker,available,13.25,37.99,high,low,5,namesilo,,,
+1f8b08d8-79a4-4dba-a2ee-5f32ea1c83d6,adios.locker,available,5.68,31.25,high,low,5,spaceship,,,28/09/2026 18:36
 6e90f422-ccc5-4152-955d-1cc8b2f98ed9,ironclad.locker,available,6.88,37.99,high,low,8,namesilo,,,11/08/2026 02:30
 e0e078d7-2cd7-427a-8238-4a94abca1a7c,devours.locker,available,6.88,37.99,low,low,7,namesilo,,,21/09/2026 08:47
 3db5a012-387f-4cf1-a2cb-ac220a891075,varicose.locker,available,6.88,37.99,medium,low,8,namesilo,,,13/09/2026 01:20
@@ -792,13 +845,16 @@ a85bb975-a929-434d-9b39-cd9e10c5f82a,decolor.locker,available,6.98,56.98,medium,
 2d7a15f9-1b24-4614-9022-b5565469a024,bias.locker,available,6.88,37.99,medium,low,4,namesilo,,,09/08/2026 18:35
 82112d5d-a124-4bef-ba6b-b8c7e76dbdba,elite.locker,premium,159.23,8.8,high,medium,5,namesilo,,,24/09/2026 13:43
 9a67c1c1-11b1-42ea-bc8d-d7e7e7cf6b9e,bromine.locker,available,6.88,37.99,medium,low,7,namesilo,,,20/09/2026 22:58
+13b71399-44e5-4a84-a0d3-6d4e0cb08d31,godwin.locker,available,6.88,37.99,high,low,6,namesilo,,,28/09/2026 11:40
 f0ff1b86-c277-409b-9704-59a40d67d9b0,swishy.locker,available,6.88,37.99,medium,low,6,namesilo,,,11/09/2026 05:54
 2c4d36f2-cad2-468a-95d4-0e1ffdd773e4,contents.locker,premium,3136.33,8.05,high,low,8,namesilo,,,
 6bca3a8d-4b14-447b-8bd2-99a9085633ab,unseeing.locker,available,6.88,37.99,high,medium,8,namesilo,,,10/09/2026 07:57
 58eaad52-29b3-4a31-8c7b-3c22161e569b,unborn.locker,available,6.88,37.99,high,low,6,namesilo,,,12/09/2026 02:23
 bd75db61-5883-41b2-a78e-01a4b9d080ec,acuate.locker,available,6.88,37.99,medium,low,6,namesilo,,,
+40f0892f-272a-406b-888d-bc22e2326e59,sentiment.locker,available,5.68,31.25,high,low,9,spaceship,,,28/09/2026 15:00
 f9273fc5-6ab9-453a-8f58-9178e933d831,uncarved.locker,available,6.88,37.99,medium,low,8,namesilo,,,12/09/2026 04:48
 df0d4907-aaed-4b91-84ac-dcd6558ca5d2,tahitian.locker,available,6.88,37.99,high,low,8,namesilo,,,11/09/2026 07:06
+2be74b08-b522-456c-b534-494986eed494,antrim.locker,available,5.66,31.41,medium,low,6,porkbun,,,28/09/2026 16:38
 4efb38bb-b8bd-4040-acea-c597c515dc7d,gonzalez.locker,available,6.88,37.99,high,low,8,namesilo,,,25/09/2026 16:13
 5a6260e0-1381-4fc2-b95a-d7421bd2704a,cellular.locker,available,6.88,37.99,high,low,8,namesilo,,,11/08/2026 23:32
 c4721cca-d20c-44ec-b3f3-379e2d301681,oaken.locker,available,6.88,37.99,medium,low,5,namesilo,,,03/09/2026 23:26
@@ -811,7 +867,7 @@ c4721cca-d20c-44ec-b3f3-379e2d301681,oaken.locker,available,6.88,37.99,medium,lo
 caeacfb5-0bfa-4d20-ae90-bf0602268169,sexual.locker,premium,546.35,33.27,high,low,6,porkbun,,,27/09/2026 20:20
 445df8c4-66a2-4b7a-be88-14a90cb8d14b,dionysia.locker,available,6.88,37.99,high,low,8,namesilo,,,21/09/2026 13:58
 d0055ef7-2b50-46d1-bf33-0ea81f5e9ed3,katie.locker,available,6.88,37.99,high,low,5,namesilo,,,25/09/2026 13:27
-c83fdb4c-97bb-46d0-bd23-4a93c9c256ef,explorer.locker,premium,53.63,8.05,high,low,8,namesilo,,,
+c83fdb4c-97bb-46d0-bd23-4a93c9c256ef,explorer.locker,premium,58.72,8.8,high,low,8,namesilo,,,28/09/2026 15:17
 830e4bf8-f5dd-425a-a27c-a2b6be6285b3,thermic.locker,available,6.88,37.99,medium,low,7,namesilo,,,11/08/2026 15:05
 49aa21f5-54fb-4e9d-9552-acb61bcf4125,aldehyde.locker,available,6.88,37.99,high,low,8,namesilo,,,18/09/2026 04:24
 b9d2c8e0-062f-4652-a36e-802d4a4da417,agal.locker,available,6.88,37.99,medium,low,4,namesilo,,,17/09/2026 16:00
@@ -820,11 +876,13 @@ d096f6e0-b76b-428e-ae8e-36d39977875e,monger.locker,available,6.98,56.98,medium,l
 0357b878-a734-460e-9db2-6dd427e0fcb7,eighter.locker,available,6.88,37.99,medium,low,7,namesilo,,,
 3a1197d0-f69c-4dc0-9b2e-0aad362a1921,koranic.locker,available,6.88,37.99,medium,low,7,namesilo,,,22/08/2026 16:59
 8ee38a9a-2158-495a-8aab-4fdc149cc9e8,unprompted.locker,available,6.88,37.99,medium,low,10,namesilo,,,21/08/2026 23:28
-2f866647-efbc-4d91-8925-0b335a6eb76c,closely.locker,available,13.25,37.99,high,low,7,namesilo,,,
+27510798-53f1-494d-a298-3a7698369bb8,oss.locker,available,5.68,31.25,high,low,3,spaceship,,,28/09/2026 21:16
+2f866647-efbc-4d91-8925-0b335a6eb76c,closely.locker,available,6.88,37.99,medium,low,7,namesilo,,,28/09/2026 14:00
 b6f29a59-7c6e-4acd-add0-c7095cb83a77,encouraging.locker,available,13.25,37.99,high,low,11,namesilo,,,
 18c52b8f-3ce5-43e4-af15-ca62d865c0c3,severe.locker,available,6.98,56.98,medium,low,6,namecheap,,,22/09/2026 13:18
 b109403c-dfa0-4a90-bcda-f5b9e4735abb,donkeywork.locker,available,6.98,56.98,medium,low,10,namecheap,,,08/09/2026 21:22
 6a86b0fb-e689-480d-bb18-1e446db0b7da,distant.locker,available,6.88,37.99,high,low,7,namesilo,,,22/09/2026 02:03
+6bbce1e6-2f77-48de-a893-981a998049b2,ljubljana.locker,available,6.88,37.99,medium,low,9,namesilo,,,29/09/2026 01:36
 723ca0a2-4725-4546-9b40-4c3d37205631,inaudible.locker,available,6.88,37.99,medium,low,9,namesilo,,,22/08/2026 00:33
 ef39c36e-14f6-46b4-8110-e9aefac96cf6,ticklish.locker,available,6.88,37.99,medium,low,8,namesilo,,,11/09/2026 15:33
 2f632504-497e-49b5-995b-66d09155d3ce,scurrilous.locker,available,6.88,37.99,medium,low,10,namesilo,,,
@@ -832,14 +890,16 @@ ef39c36e-14f6-46b4-8110-e9aefac96cf6,ticklish.locker,available,6.88,37.99,medium
 85ebc08d-36fb-4e88-b4c4-cce30f05db2e,doomed.locker,available,6.88,37.99,medium,low,6,namesilo,,,14/08/2026 15:57
 13b196ec-6b19-49aa-819f-0254a4bf8080,illusional.locker,available,6.98,56.98,medium,low,10,namecheap,,,21/08/2026 20:11
 a294a785-cdab-428c-8926-e1d4dda502b1,trivially.locker,available,6.88,37.99,low,low,9,namesilo,,,16/09/2026 09:31
+26d2a229-6cff-4bcd-ad0e-338a33788d1c,ledge.locker,available,6.88,37.99,high,low,5,namesilo,,,29/09/2026 01:33
 c5f6d1e3-2dca-453f-9c6f-8af347a08a43,sector.locker,available,6.98,56.98,high,low,6,namecheap,,,28/09/2026 03:04
 2f506cad-aab8-4bc8-abfc-58f4ae8cb2f8,semitropic.locker,available,6.88,37.99,medium,low,10,namesilo,,,10/09/2026 03:36
-1d858897-f95b-4e27-ae4b-c8d679bd8df4,advice.locker,premium,145.46,8.05,high,low,6,namesilo,,,
-eeb29202-ca25-477e-b948-902de82b6e35,thrown.locker,available,13.25,37.99,medium,low,6,namesilo,,,
+1d858897-f95b-4e27-ae4b-c8d679bd8df4,advice.locker,premium,517.7,31.25,high,low,6,spaceship,,,28/09/2026 19:02
+eeb29202-ca25-477e-b948-902de82b6e35,thrown.locker,available,6.88,37.99,medium,low,6,namesilo,,,28/09/2026 09:15
 01cc95f8-07a4-4c26-851f-64efa453dd49,formula.locker,premium,318.46,8.8,high,low,7,namesilo,,,28/09/2026 08:04
 f9598871-0176-443c-ac42-a135dbe816a6,ovular.locker,available,6.88,37.99,medium,low,6,namesilo,,,04/09/2026 22:12
 eb558847-ac23-4e55-9dd1-0e3152d70f4b,ingredients.locker,available,13.25,37.99,medium,low,11,namesilo,,,
 b40d9d0d-7b83-4cc3-ae50-36aabc4550f9,bari.locker,available,6.98,56.98,high,low,4,namecheap,,,22/09/2026 05:51
+102da69f-0361-4d02-a1f5-ffad298bd399,loretta.locker,available,6.88,37.99,medium,low,7,namesilo,,,28/09/2026 22:00
 a3efabaf-5fad-46c1-9755-a1af39e553ea,spry.locker,available,6.88,37.99,high,low,4,namesilo,,,
 f6e63664-455f-470a-8a74-3371b01d8ed6,understands.locker,available,5.68,31.25,high,low,11,spaceship,,,28/09/2026 00:05
 d06dd7b3-3367-4997-a446-48ec2cb782b7,formally.locker,available,6.88,37.99,medium,low,8,namesilo,,,14/09/2026 19:42
@@ -850,7 +910,7 @@ b15729f1-375d-4107-944b-00e177cfe05b,seventies.locker,available,6.88,37.99,high,
 7d0644ca-3fcc-449a-9d6a-1fd406bf0156,hahaha.locker,available,19.99,,high,low,6,name.com,,,
 ed517905-65ee-4c90-8ccf-f990a25dca62,bound.locker,available,6.88,37.99,high,low,5,namesilo,,,22/09/2026 07:27
 d463aacb-67e1-43b3-a5b5-25b3975c9bab,feeding.locker,available,6.88,37.99,high,low,7,namesilo,,,25/09/2026 22:30
-527bc00e-b00f-452a-b516-87d3c0f5f800,brain.locker,premium,290.91,8.05,high,medium,5,namesilo,,,
+527bc00e-b00f-452a-b516-87d3c0f5f800,brain.locker,premium,1035.2,31.25,high,medium,5,spaceship,,,29/09/2026 03:55
 6de54e2e-35e7-4ff3-a4a5-5706f9458bd6,panicky.locker,available,6.88,37.99,medium,low,7,namesilo,,,05/09/2026 00:54
 4d4d5bbb-5718-40ee-8fb7-bd45d26f560b,ashes.locker,available,6.88,37.99,medium,low,5,namesilo,,,27/09/2026 09:10
 cd925b69-fb08-4294-8bd4-43cd26a400ed,lowbred.locker,available,6.88,37.99,low,low,7,namesilo,,,10/08/2026 22:02
@@ -870,7 +930,9 @@ eb1c3293-2c6f-41c1-bfc1-403b3b622fab,percent.locker,available,6.88,37.99,high,lo
 76b9b259-dcd3-4c15-8051-a1164d7eb196,submarine.locker,available,6.88,37.99,high,low,9,namesilo,,,11/09/2026 00:16
 e4c4bf93-9b81-4754-94c8-7f9a4728e9d7,buggy.locker,available,6.98,56.98,high,low,5,namecheap,,,22/09/2026 08:13
 09d2321b-a52a-438a-9512-fcb73cc15af7,stalls.locker,available,6.98,56.98,medium,low,6,namecheap,,,10/09/2026 17:59
+de7602e3-667b-4a8f-9faa-c4b2a6ddd2ab,bonding.locker,available,5.66,31.41,high,low,7,porkbun,,,28/09/2026 09:11
 391d62e1-c25a-4a7d-b188-09f253f0cb7a,priscilla.locker,available,32.32,32.32,high,low,9,dynadot,,,28/09/2026 03:51
+432710e2-1480-4bd8-8804-92cdefee15b2,slate.locker,available,5.68,31.25,high,medium,5,spaceship,,,28/09/2026 20:30
 1da00ce9-6a27-4c98-b59d-0e98727ef848,atrocity.locker,available,6.88,37.99,medium,low,8,namesilo,,,21/09/2026 00:49
 59512839-0fd8-45ab-9664-c2aa77843d0b,puckish.locker,available,6.88,37.99,medium,low,7,namesilo,,,21/08/2026 22:29
 8b5148c2-ec74-49c0-aa8c-a964c06d4bfb,aureole.locker,available,6.88,37.99,high,low,7,namesilo,,,21/09/2026 04:18
@@ -910,12 +972,15 @@ d69b939c-4d0b-49b8-be12-f409cf619b65,saharan.locker,available,6.98,56.98,high,me
 c7ec4fa5-d3de-4ef0-872f-b729d9f98a83,deciduous.locker,available,6.98,56.98,medium,low,9,namecheap,,,13/08/2026 21:26
 a67e7688-a824-40c4-a9ed-940520d25d16,parental.locker,available,6.88,37.99,high,low,8,namesilo,,,08/09/2026 01:14
 fa3d3ed7-3d17-4271-bac0-54a6780fc531,damaged.locker,available,9.99,59.99,medium,low,7,name.com,,,13/08/2026 16:03
+2886a302-5a6d-4d6d-bdaa-efd931c336b6,dyson.locker,available,6.88,37.99,high,low,5,namesilo,,,29/09/2026 03:36
 5b0a0427-16be-4348-b839-b6c055055155,amoeba.locker,available,6.88,37.99,medium,low,6,namesilo,,,18/09/2026 17:41
 71bc3449-e41a-4e5c-bd80-a688308a798e,lennox.locker,available,5.68,31.25,high,medium,6,spaceship,,,28/09/2026 07:59
 7057f4a5-cd32-49af-bb94-4a1c814077f9,rubs.locker,available,6.88,37.99,medium,low,4,namesilo,,,20/09/2026 09:37
 73198f74-bcf7-41cc-b71d-9acb1a8b499c,fracas.locker,available,6.88,37.99,medium,low,6,namesilo,,,17/09/2026 14:44
 9655530a-edf3-4899-894f-3994e27b8be8,touching.locker,available,6.88,37.99,high,low,8,namesilo,,,
+a1ac8ff3-a7b4-41bc-8ec7-6e99c7c50b93,franck.locker,available,6.88,37.99,medium,low,6,namesilo,,,29/09/2026 00:24
 97e91492-67e8-42ad-8725-be65d6d8f9a2,autologous.locker,available,6.88,37.99,medium,low,10,namesilo,,,07/08/2026 20:37
+08c9423a-e8ec-4136-8b87-ec78ad6324ec,winkler.locker,available,6.88,37.99,high,low,7,namesilo,,,29/09/2026 03:40
 71e8238b-3132-4000-98cb-002f25a71145,stylish.locker,available,6.98,56.98,high,low,7,namecheap,,,24/09/2026 17:15
 74e2467b-d2f2-4b7e-878a-edc899156be6,acerate.locker,available,6.88,37.99,medium,low,7,namesilo,,,
 51784831-d38d-4e38-bc09-e792b32c63d9,pontiff.locker,available,6.88,37.99,medium,low,7,namesilo,,,23/09/2026 21:52
@@ -932,70 +997,5 @@ ab8b4b16-f4a1-44ba-88bc-876f2fe116f3,hospitably.locker,available,6.88,37.99,medi
 f73bf42d-c5f6-4409-8093-ebe14bbf497f,scholarship.locker,available,5.68,31.25,high,low,11,spaceship,,,28/09/2026 03:18
 89f58229-805e-41d9-8f2a-3352566c4b82,oozy.locker,available,6.88,37.99,medium,low,4,namesilo,,,04/09/2026 15:30
 cee79421-fdec-46c8-97c4-f559797ee0f1,scruples.locker,available,6.98,56.98,high,low,8,namecheap,,,24/09/2026 17:26
+1ffd536c-c230-45da-b72b-aee5b8ae6419,poisson.locker,available,5.68,31.25,medium,low,7,spaceship,,,28/09/2026 11:23
 5a6fffe0-16c2-4be6-98c2-19a71d127911,facilitating.locker,available,13.25,37.99,medium,low,12,namesilo,,,
-74e4696c-345b-439e-8c93-060f373dc9c3,awe.locker,premium,145.46,8.05,high,low,3,namesilo,,,
-d23090f1-3bde-449f-a179-ff25cf761033,monogenic.locker,available,6.88,37.99,medium,low,9,namesilo,,,25/08/2026 05:13
-b24c8459-b6cb-440e-9721-2e4431aae961,mole.locker,available,32.32,32.32,high,low,4,dynadot,,,27/09/2026 11:53
-b44c66e4-912c-40fc-97e4-9bc48ce26c25,rightness.locker,available,6.88,37.99,medium,low,9,namesilo,,,19/09/2026 22:23
-110dcd6a-7cee-4c00-a0b0-73c9bbf04f7a,comedo.locker,available,6.88,37.99,medium,low,6,namesilo,,,24/09/2026 02:47
-f62acc8d-ce93-42e3-8e1b-ca0fcd0f73cc,ludlow.locker,available,6.98,56.98,medium,low,6,namecheap,,,27/09/2026 23:11
-0cf8f3ad-6af6-4add-a647-eb6157cf89ff,diffusive.locker,available,6.88,37.99,medium,low,9,namesilo,,,14/08/2026 07:10
-f691af9c-1a59-45f6-8e29-60550474bbf6,unflawed.locker,available,6.88,37.99,medium,low,8,namesilo,,,18/08/2026 07:21
-89d58d4e-7f4a-4d5d-baf6-9af847e5bc4f,digitiser.locker,available,6.88,37.99,high,low,9,namesilo,,,19/09/2026 01:52
-ebd1f734-c538-435f-8465-5d86b90cc24c,photogenic.locker,available,6.98,56.98,high,medium,10,namecheap,,,08/09/2026 19:18
-9b6bfd22-adc2-4f82-980a-8158f6f97a6f,polythene.locker,available,13.25,37.99,medium,low,9,namesilo,,,
-497689ef-ecb6-499f-8ae0-809cb5ee3d77,haircut.locker,available,19.99,,high,low,7,name.com,,,
-e706372d-e4c5-4e30-9505-addd1db4baf6,says.locker,available,12.98,56.98,medium,low,4,namecheap,,,
-b673e391-a378-4516-bbb8-7089da9f84c7,communities.locker,premium,650,39,high,low,11,namecheap,,,17/09/2026 18:41
-95df44e6-bf96-4fa1-8a56-28bfb001e28f,qtips.locker,available,6.88,37.99,medium,low,6,namesilo,,,17/09/2026 10:12
-72137a76-08be-447c-b90d-9c18fe691de9,crazed.locker,available,6.88,37.99,medium,low,6,namesilo,,,13/08/2026 05:31
-ddf0b6f1-e588-413e-ab8d-a04826ccf3c6,devoid.locker,available,6.88,37.99,medium,low,6,namesilo,,,14/08/2026 05:13
-02cf6070-30d9-4210-8fd9-01a71960661f,analogist.locker,available,6.88,37.99,medium,low,9,namesilo,,,19/09/2026 01:52
-490ceb02-aff4-4460-8c11-beeb49b59381,sub.locker,premium,145.46,8.05,high,low,3,namesilo,,,28/09/2026 01:46
-7be1a05b-2ae4-423f-9fca-d59482ab2675,churning.locker,available,6.88,37.99,medium,low,8,namesilo,,,12/08/2026 07:51
-59f9fc0c-8eb4-4ddd-9a65-686007b01fd2,conducive.locker,available,6.98,56.98,high,low,9,namecheap,,,12/08/2026 20:30
-2e5034fb-5fdb-4d2e-af9e-92a53485b0bb,grind.locker,available,6.98,56.98,high,low,5,namecheap,,,08/09/2026 21:20
-2242aa52-d165-4010-ad18-915065c5cb5c,motional.locker,available,6.88,37.99,medium,low,8,namesilo,,,25/08/2026 07:22
-7e088ab1-bee9-414a-b191-327d79946f97,decade.locker,available,6.98,56.98,high,low,6,namecheap,,,21/09/2026 10:56
-3b840d1f-3925-4b54-adb9-3f1a0773811c,toter.locker,available,6.98,56.98,medium,low,5,namecheap,,,22/09/2026 21:16
-427ca7e8-ba9b-49f1-8cd1-fb3b43f3f7e2,spirited.locker,available,6.88,37.99,high,low,8,namesilo,,,27/09/2026 03:25
-5c5c0043-f57d-463f-9443-50aed63ace63,sparing.locker,available,6.88,37.99,high,low,7,namesilo,,,18/08/2026 16:58
-e3a7150f-4f75-4d2a-9625-9d4d092a98c4,partner.locker,premium,650,39,high,low,7,namecheap,,,23/09/2026 11:42
-a2161a31-2fd1-418d-b9d5-3cb711488055,atrazine.locker,available,6.88,37.99,medium,low,8,namesilo,,,21/09/2026 00:37
-49da044e-9875-4392-8082-67aece336e82,centric.locker,available,6.88,37.99,high,low,7,namesilo,,,12/08/2026 00:07
-8444d65e-163d-432e-af55-66ab701919f2,joaquin.locker,available,6.88,37.99,medium,low,7,namesilo,,,25/09/2026 16:17
-b34b2881-31a3-4aae-a752-890a3c991511,pls.locker,premium,145.46,8.05,high,low,3,namesilo,,,
-8a78ecea-e611-42cc-a30f-63d4e6f67803,bigfoot.locker,available,6.88,37.99,high,low,7,namesilo,,,23/09/2026 15:06
-45de081a-ee6c-4ad2-a3bb-38d097649519,ruse.locker,available,6.88,37.99,medium,low,4,namesilo,,,20/09/2026 11:33
-eb976147-3d21-4fc4-b5f5-d3d950ef9b71,arboreous.locker,available,6.88,37.99,medium,low,9,namesilo,,,06/08/2026 12:59
-894f0d0a-ede4-4f49-bb57-5d47a51fb29d,banker.locker,premium,318.46,8.8,high,low,6,namesilo,,,22/09/2026 02:46
-191ab217-5339-42f2-97e3-18dda95e01de,sobeit.locker,available,6.88,37.99,low,low,8,namesilo,,,16/09/2026 13:51
-1a334eda-bb05-43a5-876e-fc49cfb661e0,spheroidal.locker,available,6.98,56.98,medium,low,10,namecheap,,,16/08/2026 05:22
-a949a73d-5c99-4db4-9ba6-f8cdce1c82f0,surrender.locker,available,13.25,37.99,high,low,9,namesilo,,,
-dd008293-ea70-4779-8409-55d9c1089a27,afterlife.locker,available,6.88,37.99,high,low,9,namesilo,,,15/09/2026 00:23
-7ecd8305-0545-4af4-bb5a-3f5ef35437e0,greedy.locker,available,6.88,37.99,high,low,6,namesilo,,,07/08/2026 22:09
-124c43d4-8c7e-4fef-99cd-b9e79b379f1e,lightwood.locker,available,6.98,56.98,medium,low,9,namecheap,,,16/09/2026 20:15
-8a86cfd0-b819-48dc-a47e-c2a10f8729bc,barometric.locker,available,6.98,56.98,medium,low,10,namecheap,,,08/08/2026 20:06
-922e181b-999c-4bb9-a8f8-dcb635ed642d,geriatric.locker,available,6.88,37.99,medium,low,9,namesilo,,,18/08/2026 22:42
-da5e39b8-1198-4d90-b606-31c6ea06ddfe,madrona.locker,available,6.88,37.99,medium,low,7,namesilo,,,20/09/2026 01:01
-a9b68d74-6de3-47fe-8661-5f949006f031,lossless.locker,available,6.88,37.99,high,low,8,namesilo,,,24/08/2026 09:56
-366cd98b-52b4-4cc0-8319-e0f953147d95,crusted.locker,available,6.88,37.99,medium,low,7,namesilo,,,13/08/2026 09:22
-8aeeb93b-8172-4a80-a42e-11e27ca3aaa8,excused.locker,available,6.88,37.99,medium,low,7,namesilo,,,17/08/2026 16:44
-26a9a1f2-6263-4958-b730-9ec6f5dbafb6,bawdy.locker,available,6.88,37.99,medium,low,5,namesilo,,,09/08/2026 02:05
-5b4266a7-5434-4e1a-8409-a1de2c14c2c4,blaring.locker,available,6.88,37.99,medium,low,7,namesilo,,,10/08/2026 13:08
-e0427d2a-479f-4dec-b5b2-e1d0ccffce3a,thawed.locker,available,6.88,37.99,medium,low,6,namesilo,,,11/09/2026 12:31
-e3e30901-6cb1-4227-aec4-e8aa6de5930a,agonising.locker,available,6.88,37.99,medium,low,9,namesilo,,,
-d7301831-473f-4ed9-bef7-bd10d8d6b0ad,chair.locker,available,6.98,56.98,high,low,5,namecheap,,,25/09/2026 21:14
-b537416f-862e-492f-9ce8-41aa0389acf4,hydraulic.locker,available,6.88,37.99,high,low,9,namesilo,,,21/08/2026 16:17
-65ce4302-1242-4c64-8f8f-6b8d6244695e,server.locker,premium,1035.2,31.25,high,medium,6,spaceship,,,28/09/2026 07:18
-c08cb589-fff5-438a-8ffa-402d19c522ed,axile.locker,available,6.88,37.99,medium,low,5,namesilo,,,08/08/2026 01:56
-1a384c66-7491-4dea-8694-2dcd07052316,guy.locker,premium,318.46,8.8,high,low,3,namesilo,,,24/09/2026 02:27
-922f7a6f-0628-42df-ac6f-ebfc073ce65e,swimsuit.locker,premium,318.46,8.8,high,low,8,namesilo,,,22/09/2026 13:37
-fac2dd6a-82d4-49b4-878a-ab71a0d42993,maui.locker,premium,1035.2,31.25,high,low,4,spaceship,,,28/09/2026 02:23
-0d117bfd-f806-47ce-93a9-84517e75e920,rumbling.locker,available,6.98,56.98,medium,low,8,namecheap,,,20/08/2026 20:34
-3053853e-7cf0-420b-b828-199b958e5adc,houston.locker,premium,318.46,8.8,high,low,7,namesilo,,,27/09/2026 04:28
-d58d2c0f-d148-4e51-9909-a061e462b7c3,bearer.locker,available,6.98,56.98,high,low,6,namecheap,,,22/09/2026 21:14
-25983026-b5c7-4ecd-b1e3-113775056f51,sheepdog.locker,available,19.99,,high,low,9,name.com,,,
-e1b4f62c-4416-485c-935e-94d7506b6f16,restlessly.locker,available,6.88,37.99,medium,low,10,namesilo,,,15/09/2026 23:29
-8dade2a4-cc9d-4b8f-8f68-340231babab3,roofed.locker,available,6.98,56.98,high,medium,6,namecheap,,,09/09/2026 18:33
-6ad4eb7b-3cba-418c-9c43-08c7ea2cb0c8,unsheathed.locker,available,6.98,56.98,medium,low,10,namecheap,,,12/09/2026 19:47
