@@ -1,10 +1,10 @@
-# Available .LOCKER One-Word Domains (31,562)
+# Available .LOCKER One-Word Domains (33,113)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C562%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-33%2C113%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .locker one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **31,562 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **33,113 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 31,562 domains · **Median ask:** $149.09 · **High-demand under $2,500:** 98
+**Public extract:** 1,000 rows · **Live catalog:** 33,113 domains · **Median ask:** $146.26 · **High-demand under $2,500:** 99
 
-**Last updated:** 2026-10-01
+**Last updated:** 2026-10-02
 **Canonical page:** `https://unique.domains/domains/tld/locker`
 **Best for:** founders, investors, studios
 
@@ -65,25 +65,25 @@ print(df.head())
 | domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
 | avo.locker  | available | $6.98     | $56.98        | high           | low    | 3      | namecheap |
-| air.locker  | premium   | $13,000   | $39           | high           | medium | 3      | namecheap |
+| bnp.locker  | premium   | $159.23   | $8.80         | high           | low    | 3      | namesilo  |
 | bia.locker  | available | $5.68     | $31.25        | medium         | low    | 3      | spaceship |
 | cas.locker  | premium   | $650      | $39           | high           | low    | 3      | namecheap |
-| fcc.locker  | available | $6.88     | $37.99        | high           | low    | 3      | namesilo  |
+| dbs.locker  | available | $5.57     | $32.32        | high           | low    | 3      | dynadot   |
 | cut.locker  | premium   | $159.23   | $8.80         | high           | low    | 3      | namesilo  |
-| ine.locker  | available | $6.98     | $56.98        | medium         | low    | 3      | namecheap |
+| fcc.locker  | available | $6.88     | $37.99        | high           | low    | 3      | namesilo  |
 | den.locker  | premium   | $159.23   | $8.80         | high           | low    | 3      | namesilo  |
-| jia.locker  | available | $5.68     | $31.25        | high           | low    | 3      | spaceship |
+| ine.locker  | available | $6.98     | $56.98        | medium         | low    | 3      | namecheap |
 | fly.locker  | premium   | $13,000   | $39           | high           | medium | 3      | namecheap |
-| nmr.locker  | available | $6.88     | $37.99        | high           | low    | 3      | namesilo  |
+| jia.locker  | available | $5.68     | $31.25        | high           | low    | 3      | spaceship |
 | fsb.locker  | premium   | $207.20   | $31.25        | high           | low    | 3      | spaceship |
-| wal.locker  | available | $5.68     | $31.25        | high           | low    | 3      | spaceship |
+| nmr.locker  | available | $6.88     | $37.99        | high           | low    | 3      | namesilo  |
 | hie.locker  | premium   | $260      | $39           | medium         | low    | 3      | namecheap |
+| wal.locker  | available | $5.68     | $31.25        | high           | low    | 3      | spaceship |
+| hmm.locker  | premium   | $517.70   | $31.25        | high           | low    | 3      | spaceship |
 | agar.locker | available | $6.88     | $37.99        | medium         | low    | 4      | namesilo  |
 | hms.locker  | premium   | $58.72    | $8.80         | medium         | low    | 3      | namesilo  |
 | alar.locker | available | $6.88     | $37.99        | medium         | low    | 4      | namesilo  |
 | hun.locker  | premium   | $58.72    | $8.80         | high           | low    | 3      | namesilo  |
-| anpu.locker | available | $6.88     | $37.99        | medium         | low    | 4      | namesilo  |
-| ipc.locker  | premium   | $159.23   | $8.80         | medium         | low    | 3      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 31,562 live domains                        |
+| 1,000-row public sample | 33,113 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 98 high-demand names under $2,500          |
+| Basic exported fields   | 99 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LOCKER One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LOCKER One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
